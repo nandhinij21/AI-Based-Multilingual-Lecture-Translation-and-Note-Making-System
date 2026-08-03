@@ -1,130 +1,357 @@
-# AI-Based-Multilingual-Lecture-Translation-and-Note-Making-System
+# 🎓 AI-Based Multilingual Lecture Translation & Educational Note Generation
 
-An end-to-end multimodal pipeline for translating educational YouTube video lectures and generating structured, student-friendly lecture notes across multiple Indic languages with 100% Technical Vocabulary & Mathematical Formula Preservation.
+> An end-to-end AI pipeline for translating educational YouTube lectures into multiple Indic languages while preserving **100% technical terminology and mathematical formulas**, followed by automatic AI-generated study notes.
 
----
-
-## 📌 Project Overview
-
-Digital learning platforms have democratized education, yet millions of students face significant language barriers when accessing high-quality STEM content, which is predominantly delivered in English, Hindi, or code-switched Hinglish. Existing Machine Translation (MT) systems frequently mistranslate domain-specific technical vocabulary and fail to handle mathematical expressions or code-switching.
-
-This repository implements a 6-Stage Automated Multimodal Pipeline that ingests YouTube lecture videos, transcribes multi-lingual Indian speech, identifies technical and mathematical entities using a custom MuRIL–CRF model, translates the content without corrupting domain terms using an innovative Entity-Shielded Translation (EST) framework, synthesizes localized neural dubbing, and generates structured educational notes.
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Whisper](https://img.shields.io/badge/Faster--Whisper-large--v3--turbo-orange)
+![IndicTrans2](https://img.shields.io/badge/Translation-IndicTrans2-red)
+![MuRIL](https://img.shields.io/badge/NER-MuRIL--CRF-purple)
 
 ---
 
-## 🚀 Key Features
+# 📖 Table of Contents
 
-- Code-Switched Speech Recognition: Handles rapid Indian English, Hindi, and code-mixed speech (Hinglish) using int8-quantized Faster-Whisper.
-- Domain Entity Recognition: Extracts technical terms (TECH) and mathematical expressions (FORMULA) using a fine-tuned MuRIL + CRF token classification architecture.
-- Entity-Shielded Translation (EST): Ensures a 100% Term Preservation Rate (TPR) by masking/shielding technical entities from machine translation corruption via IndicTrans2.
-- Synchronized Localized Dubbing: Generates multi-speaker, pitch-matched, gender-aware audio dubbed tracks using Microsoft Edge Neural TTS in Tamil, Telugu, Marathi, and Bengali.
-- AI Note Generation: Synthesizes structured, student-friendly educational study notes (summaries, key concepts, Q&As, MCQs, and learning outcomes) using Llama-3.1-8b-instant via the Groq API while keeping code/technical terms in English.
-
----
-
-## 🏗 System Architecture (6-Stage Pipeline)
-
-[ YouTube URL ]
-│
-▼
-┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐ ┌───────────┐
-│ Stage 1 │ ───► │ Stage 2 │ ───► │ Stage 3 │ ───► │ Stage 4 │ ───► │ Stage 5 │ ───► │ Stage 6 │
-│ ASR Engine│ │ MuRIL-CRF │ │ Entity │ │IndicTrans2│ │ Neural TTS│ │ Groq AI │
-│Transcribe │ │ Domain NER│ │ Masking │ │ Translation│ │ Local Dub │ │ Notes Gen │
-└───────────┘ └───────────┘ └───────────┘ └───────────┘ └───────────┘ └───────────┘
-
-### Stage Summary
-
-1. Stage 1 & 2 (Audio Extraction & NER Processing): Ingests audio via yt-dlp & FFmpeg. Transcribes code-switched speech using Faster-Whisper (large-v3-turbo) and identifies domain-specific technical entities using MuRIL + CRF.
-2. Stage 3 & 4 (Entity Masking & Machine Translation): Shields extracted technical entities/formulas and translates transcripts into regional Indian languages using IndicTrans2.
-3. Stage 5 (Neural Dubbing & Audio-Video Sync): Synthesizes regional voice tracks via edge-tts and syncs audio duration to match video frames.
-4. Stage 6 (AI Educational Note Generation): Uses Groq + Llama-3.1-8b-instant to generate structured, multi-lingual study notes (\*\_stage6_notes.json).
+- [Overview](#overview)
+- [Features](#features)
+- [Pipeline Architecture](#pipeline-architecture)
+- [Repository Structure](#repository-structure)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Results](#results)
+- [Tech Stack](#tech-stack)
+- [Future Improvements](#future-improvements)
+- [License](#license)
 
 ---
 
-## 📂 Repository Structure
+# 📌 Overview
 
+Millions of students struggle to access quality educational content because most online STEM lectures are available only in English or code-switched Hinglish. Traditional machine translation systems often mistranslate technical vocabulary and mathematical expressions, making learning difficult.
+
+This project presents a **6-stage multimodal AI pipeline** that:
+
+- Downloads YouTube lectures
+- Performs multilingual speech recognition
+- Detects technical terminology using a custom **MuRIL-CRF** model
+- Preserves domain entities during translation through **Entity-Shielded Translation (EST)**
+- Generates synchronized dubbed audio
+- Produces AI-generated educational notes
+
+---
+
+# ✨ Features
+
+## 🎙 Speech Recognition
+
+- Faster-Whisper (large-v3-turbo)
+- Handles English, Hindi, and Hinglish
+- Word-level timestamps
+- Speaker-aware transcription
+
+## 🧠 Technical Entity Recognition
+
+- Fine-tuned MuRIL + CRF model
+- Detects:
+  - TECH entities
+  - FORMULA entities
+- Designed specifically for educational lectures
+
+## 🌐 Entity-Shielded Translation (EST)
+
+- Prevents technical vocabulary corruption
+- Preserves formulas
+- Uses IndicTrans2
+- Achieves **100% Technical Term Preservation Rate**
+
+## 🔊 Neural Dubbing
+
+- Microsoft Edge Neural TTS
+- Pitch-aware synchronization
+- Gender-aware voice selection
+- Supports:
+  - Tamil
+  - Telugu
+  - Marathi
+  - Bengali
+
+## 📝 AI Educational Notes
+
+Powered by:
+
+- Llama-3.1-8B-Instant
+- Groq API
+
+Automatically generates:
+
+- Lecture Summary
+- Key Concepts
+- Important Definitions
+- MCQs
+- Question & Answers
+- Learning Outcomes
+
+---
+
+# 🏗 Pipeline Architecture
+
+```text
+                 YouTube Lecture
+                        │
+                        ▼
+┌───────────────────────────────────────────┐
+│ Stage 1                                   │
+│ Audio Extraction + Speech Recognition      │
+│ (yt-dlp + FFmpeg + Faster-Whisper)         │
+└───────────────────────────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────┐
+│ Stage 2                                   │
+│ Domain NER (MuRIL + CRF)                  │
+└───────────────────────────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────┐
+│ Stage 3                                   │
+│ Entity Shielding                          │
+└───────────────────────────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────┐
+│ Stage 4                                   │
+│ IndicTrans2 Translation                   │
+└───────────────────────────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────┐
+│ Stage 5                                   │
+│ Neural Dubbing (Edge TTS)                 │
+└───────────────────────────────────────────┘
+                        │
+                        ▼
+┌───────────────────────────────────────────┐
+│ Stage 6                                   │
+│ AI Educational Note Generation            │
+│ (Groq + Llama-3.1-8B)                     │
+└───────────────────────────────────────────┘
+```
+
+---
+
+# 📂 Repository Structure
+
+```
 .
-├── Notebooks/ # Experimental Jupyter Notebooks
-│ ├── notebook-translation.ipynb # Stage 3 & 4 Translation prototyping
-│ └── notebook-stage5.ipynb # Stage 5 Audio Dubbing prototyping
-├── Scripts/ # Standalone execution scripts and runtime data
-│ ├── stage1&2_extract&convert.py # Combined Audio Extraction, ASR, & NER
-│ ├── stage6_notes.py # Stage 6 AI Note Generator script
-│ ├── .env # API Keys & Local Configuration
-│ ├── www.youtube.com_cookies # Cookies file for YouTube audio extraction
-│ ├── audio/ # Extracted audio tracks (.wav/media)
-│ └── output/ # Pipeline output files (transcripts, NER, translated JSONs, notes)
-│ ├── <video_id>\_large-v3-turbo.json
-│ ├── <video_id>\_large-v3-turbo_ner.json
-│ ├── <video_id>\_large-v3-turbo_translated.json
-│ └── <video_id>\_stage6_notes.json
-├── .gitignore # Git exclusion rules
-├── requirements.txt # Project Dependencies
-└── README.md # Documentation
+├── Notebooks
+│   ├── notebook-translation.ipynb
+│   └── notebook-stage5.ipynb
+│
+├── Scripts
+│   ├── stage1&2_extract&convert.py
+│   ├── stage6_notes.py
+│   ├── .env
+│   ├── www.youtube.com_cookies
+│   │
+│   ├── audio
+│   │
+│   └── output
+│       ├── transcript.json
+│       ├── ner.json
+│       ├── translated.json
+│       └── stage6_notes.json
+│
+├── requirements.txt
+├── .gitignore
+└── README.md
+```
 
 ---
 
-## ⚙️ Installation & Setup
+# ⚙ Installation
 
-### 1. System Dependencies
+## 1. Clone Repository
 
-Ensure FFmpeg and Deno are installed on your system:
+```bash
+git clone https://github.com/your-username/project-name.git
 
-# Ubuntu/Linux
+cd project-name
+```
 
-sudo apt-get update && sudo apt-get install -y ffmpeg
+---
 
-# Install Deno (Required for yt-dlp JS engine)
+## 2. Install FFmpeg
 
-curl -fsSL https://deno.land/install.sh | sh -s -- -y
+### Ubuntu
 
-### 2. Python Environment & Setup
+```bash
+sudo apt update
+sudo apt install ffmpeg
+```
 
-Create and activate a virtual environment, then install dependencies:
+### Windows
 
+Download from:
+
+https://ffmpeg.org/download.html
+
+---
+
+## 3. Install Deno
+
+```bash
+curl -fsSL https://deno.land/install.sh | sh
+```
+
+---
+
+## 4. Create Virtual Environment
+
+```bash
 python -m venv .venv
-source .venv/bin/activate # On Windows: .venv\Scripts\activate
+```
 
+Activate:
+
+Linux/macOS
+
+```bash
+source .venv/bin/activate
+```
+
+Windows
+
+```bash
+.venv\Scripts\activate
+```
+
+---
+
+## 5. Install Dependencies
+
+```bash
 pip install -r requirements.txt
-
-### 3. Environment Variables
-
-Add your GROQ_API_KEY in Scripts/.env:
-
-GROQ_API_KEY=your_groq_api_key_here
+```
 
 ---
 
-## 🏃 Quickstart / Execution Guide
+## 6. Configure Environment
 
-### 1. Extract Audio & Run ASR + NER (Stages 1 & 2)
+Create a `.env` file inside the `Scripts/` directory.
 
+```env
+GROQ_API_KEY=your_api_key_here
+```
+
+---
+
+# 🚀 Usage
+
+## Stage 1 & 2
+
+Audio Extraction + Speech Recognition + NER
+
+```bash
 cd Scripts
+
 python stage1&2_extract&convert.py
+```
 
-### 2. Entity-Shielded Translation & Dubbing (Stages 3, 4 & 5)
+---
 
-Run the corresponding Jupyter notebooks inside Notebooks/ or run the converted python scripts:
+## Stage 3 & 4
 
-- Execute Notebooks/notebook-translation.ipynb for Indic language translation.
-- Execute Notebooks/notebook-stage5.ipynb for audio dubbing and synchronization.
+Run the translation notebook
 
-### 3. Generate AI Educational Notes (Stage 6)
+```
+Notebooks/notebook-translation.ipynb
+```
 
+---
+
+## Stage 5
+
+Run the dubbing notebook
+
+```
+Notebooks/notebook-stage5.ipynb
+```
+
+---
+
+## Stage 6
+
+Generate educational notes
+
+```bash
 cd Scripts
+
 python stage6_notes.py
+```
 
 ---
 
-## 📊 Experimental Results
+# 📊 Results
 
-- Domain Entity Recognition (MuRIL–CRF): 0.98 F1-Score on TECH entities and 0.87 F1-Score on FORMULA tags.
-- Term Preservation Rate (TPR): Maintained 100.0% TPR across all supported Indic translation targets (Tamil, Telugu, Marathi, Bengali).
-- Translation Quality: +5.15 SacreBLEU points average improvement over standard unshielded translation baselines.
+| Metric | Result |
+|---------|--------|
+| TECH Entity F1 | **0.98** |
+| FORMULA Entity F1 | **0.87** |
+| Technical Term Preservation | **100%** |
+| SacreBLEU Improvement | **+5.15** |
+| Supported Languages | English, Hindi, Tamil, Telugu, Marathi, Bengali |
 
 ---
 
-## 📜 License
+# 🛠 Tech Stack
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+### Speech Recognition
+
+- Faster-Whisper
+- FFmpeg
+- yt-dlp
+
+### NLP
+
+- MuRIL
+- CRF
+- Transformers
+- PyTorch
+
+### Translation
+
+- IndicTrans2
+
+### Voice Synthesis
+
+- Microsoft Edge TTS
+
+### LLM
+
+- Groq API
+- Llama-3.1-8B-Instant
+
+### Programming
+
+- Python
+- Jupyter Notebook
+
+---
+
+# 🔮 Future Improvements
+
+- Support additional Indic languages
+- Speaker cloning instead of generic TTS
+- Real-time lecture translation
+- Live subtitle generation
+- Web application deployment
+- PDF lecture note generation
+- Automatic slide extraction
+
+---
+
+# 📜 License
+
+This project is licensed under the **MIT License**.
+
+See the `LICENSE` file for more information.
