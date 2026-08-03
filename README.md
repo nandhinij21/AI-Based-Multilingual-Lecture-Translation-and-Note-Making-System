@@ -1,0 +1,1 @@
+# AI-Based-Multilingual-Lecture-Translation-and-Note-Making-System
