@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Keep only selected audio/output files
+Scripts/audio/*
+!Scripts/audio/yRpLlJmRo2w.wav
+!Scripts/audio/7l7epaAxRmA.wav
+
+Scripts/output/*
+!Scripts/output/yRpLlJmRo2w_large-v3-turbo.json
+!Scripts/output/yRpLlJmRo2w_stage6_notes.json
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
