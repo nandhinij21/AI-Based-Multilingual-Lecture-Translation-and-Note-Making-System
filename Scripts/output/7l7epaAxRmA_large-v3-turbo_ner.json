@@ -1,0 +1,5146 @@
+{
+  "video_id": "7l7epaAxRmA",
+  "video_title": "Complete Class 10 Maths in 5 Minutes I Class 10 Complte Maths Revision I Ashish Sir",
+  "video_channel": "Ashish4students",
+  "video_url": "https://youtu.be/7l7epaAxRmA?si=Znzlgn53r0AnegX-",
+  "input_language": "hi",
+  "ner_engine": "muril-crf",
+  "model_used": "large-v3-turbo",
+  "duration_seconds": 246.8629375,
+  "target_languages": {
+    "hi": "Hindi",
+    "ta": "Tamil",
+    "te": "Telugu",
+    "mr": "Marathi",
+    "bn": "Bengali"
+  },
+  "code_switch_info": {
+    "is_code_switched": true,
+    "english_ratio": 0.263,
+    "native_ratio": 0.737,
+    "english_words": 191,
+    "native_words": 535
+  },
+  "original_text": "Hello students, कैसे हैं आप सब लोग, I hope आप लोग अच्छे होंगे, अच्छे से पढ़ाई कर रहा होंगे, सिर्फ कुछ मिनट्स में आप पूरी मैस को revise करने वाले हैं, सारे formula रिवाइस करने वाले, चलिए स्टार्ट करते हैं, पहले चप्टर से, real number, एक formula काम का है, जो कि यह SCF into LCM, प्रोड़क्ट आप two numbers, second chapter है हमारा पॉलिने मेल, जिसमें हमारे formula काम के, अगर हमारी पॉलिमेल एक स्कॉर प्लस ब्स प्लस अलफा प्लस बीटा होता है, मैनस बीपन है, अलफा न्टु बीटा सी अपन है, और formation अपको पॉलिमेल होता है, एक स्कॉर माइनस अलफा प्लस � प्लस अलफा बीटा और के बाहर लगाना है, स्क्रीन सॉर्ट लेते जाना हर एक पेच का, या फिर आप नोट कर लो तो बस रहेगा, थर्ड चेप्टर की बात करें, linear equation to variable, इसमें आपको consistency समझना है, कि अगर a1 upon a2, not equal to b1 upon b2, intersecting unique solution, a1 upon a2, अगर ये 3 equal है, coincident या infinite, दो equal है और nature of roots आपकी ये है, तो ये आपको याद रखना है, इसकी बाद में बात करूँ, ap की, तो ap में दो formula है, एक nth trump का है, और एक sum of n trump का है, तो इसका भी आप screen sort ले ले, और nth trump from end का formula है, l minus n minus 1 into d, इसका दाता triangle, triangle में bpt, जिसमें side के ratio लेते हैं, अगर ये line parallel है, और similarity के हमारे criteria हैं, जिन से हम triangle को similar कर सकते हैं, अगर बात करें, coordinate geometry, तो ये हमारे distance formula, फिर आता है section formula, जो कि हमारे काम का है, और फिर आता है midpoint formula, तीन formula पर हमारे question बनते हैं, अगर हमें बात करूँ, trigonometry की, तो मैं basic पता होना है, sin, cost, n, cost, sec, और cod, ये सब क्या होते हैं, किसी triangle में, एक trigonometry टेवल आपको याद होनी चाहिए, तीन identity आपको याद होनी चाहिए, और आपको ये ब्रेसी प्रोकल की प्रॉपटी जात होनी चाहिए, इसका भी आप screenshot ले लीजिए, अगर हम इसके बात करें, application of trigonometry, सिर्फ basic पता हो, angle of elevation क्या होता है, इधर अगर उपर से नीचे देखत प्रॉप ये दो concept हमारे काम के रहते हैं, फिराते हैं, area related to circle में, जिसमें circle का basic पता हो, circumference in area, area of sector का formula पता हो, और area of segment होता है, cod और arc की बीच का area, और ये निकलता है कैसे, area of sector में से area of triangle में, माइनस करना होता है, फिर सबसे important इतने सारे formula में एक साथ, बड़ी महनत से लिखें हैं, आपके लिए जिससे की आप सारे formula एक साथ आपको मिल जाएं, और आप revise कर पाएं, फटा फटा इसको screenshot ले लो, मैंने बहुत महनत से इसको लिखा है, cube, cubite, cylinder, cone, hemisphere, sphere, in सबके curve, surface area, surface area and volume आपको पता होना चाहिए, यहां से आप note कर लीजे, अगर मैं बात करो next statistics, तो इस सकते हो, और last हमारा chapter आता है probability, probability की यह मैं बात करूँ तो यहां पर हमारा basic formula है, probability का number of favorable outcome upon total outcome, जिसमें point की बात करो तो तीन coin पर कोशन बन सकता है, तो one coin का outcome यह है, two coin का यह है, three coin का यह है, dice की बात करें, तो एक die का सकता है, यह दो dice का सकता है, ठीक है, तो दो dice की outcome 36 होते है याद रखना है और फिर आता है आपका कार्ड कार्ड क्या होते हैं कार्ड टोटल हमारे पास होते हैं फिप्टी टू और फिप्टी टू कार्ट में कौन कौन होता है रेड हमारे पार 13 13 13 13 चार पार्ट में डिवाइड होते हैं जिसमें हमारे पार डाइमन और हर्ट रहता है � रेट कलर का क्लाब और स्पीड होता है ब्लेक कलर का जिसमें नंबरिंग होती है हमारी 2345678910 सब में यही रहता है ठीक है जैक क्वीन किंग यह हमारे फेस काड होते हैं इसमें हमारे जो फेस काड होते हैं वो होते हैं जैक क्वीन किंग टोटल हमारे पास कितने फेस काड हो ग करते हैं लाश्ट में की बात बोरूँगा कि आप सभी सफलों तरने बाद",
+  "masked_text": "Hello students, कैसे हैं आप सब लोग, I hope आप लोग अच्छे होंगे, अच्छे से पढ़ाई कर रहा होंगे, सिर्फ कुछ मिनट्स में आप पूरी मैस को revise करने वाले हैं, सारे formula रिवाइस करने वाले, चलिए स्टार्ट करते हैं, पहले चप्टर से, __MASK_0__ number, एक formula काम का है, जो कि यह SCF __MASK_1__ LCM, __MASK_4__ आप __MASK_3__, __MASK_2__ है हमारा पॉलिने मेल, जिसमें हमारे formula काम के, अगर हमारी पॉलिमेल एक स्कॉर प्लस ब्स प्लस अलफा प्लस बीटा होता है, मैनस बीपन है, अलफा न्टु बीटा सी अपन है, और formation अपको पॉलिमेल होता है, एक स्कॉर माइनस अलफा प्लस � प्लस अलफा __MASK_9__ और के बाहर लगाना है__MASK_13__ __MASK_6__ __MASK_8__ __MASK_10__ जाना हर एक पेच का, __MASK_12__ फिर आप नोट कर लो तो बस रहेगा, थर्ड चेप्टर की बात करें, __MASK_7__ __MASK_5__ variable, इसमें आपको consistency समझना है, कि अगर a1 __MASK_11__ a2, not equal to b1 upon b2, intersecting unique solution, a1 upon a2, अगर ये 3 equal है, coincident या infinite, दो equal है और __MASK_16__ of roots आपकी ये है__MASK_24__ तो ये आपको याद रखना है__MASK_25__ इसकी बाद में बात करूँ, ap की, तो ap में दो formula है, एक __MASK_22__ __MASK_18__ का है, और एक sum of n trump का है, तो इसका भी आप __MASK_17__ __MASK_19__ ले ले, और __MASK_23__ trump __MASK_20__ end का formula है, l minus n minus 1 into d, इसका दाता __MASK_14__, triangle में bpt, जिसमें side के ratio लेते हैं, अगर ये __MASK_21__ __MASK_15__ है, और similarity के हमारे __MASK_27__ हैं__MASK_32__ जिन से हम __MASK_28__ को similar कर सकते हैं__MASK_33__ अगर बात करें__MASK_34__ coordinate __MASK_29__, तो ये हमारे distance formula, फिर आता है section formula, जो कि हमारे काम का है__MASK_35__ __MASK_31__ फिर आता है midpoint formula, तीन formula पर हमारे question बनते हैं, अगर हमें बात करूँ, __MASK_26__ की, तो मैं basic पता होना है, sin, cost, n, cost, sec, और cod, ये सब क्या होते हैं, किसी __MASK_30__ में, एक trigonometry __MASK_40__ आपको याद होनी चाहिए, तीन __MASK_38__ आपको याद होनी चाहिए, और आपको ये ब्रेसी प्रोकल की प्रॉपटी जात होनी चाहिए, इसका भी आप screenshot ले लीजिए, अगर हम इसके बात करें, __MASK_37__ of __MASK_36__, सिर्फ basic पता हो, __MASK_39__ of elevation क्या होता है, इधर अगर उपर से नीचे देखत प्रॉप ये __MASK_49__ __MASK_43__ हमारे काम के रहते हैं__MASK_50__ फिराते हैं, __MASK_46__ __MASK_44__ to circle में, जिसमें circle का basic पता हो, __MASK_41__ in __MASK_47__, area of sector का formula पता हो, और area of __MASK_45__ होता है, __MASK_48__ और arc की बीच का area, और ये निकलता है कैसे, area of sector में से area of __MASK_42__ में, माइनस करना होता है, फिर सबसे important इतने सारे formula में एक साथ, बड़ी महनत से लिखें हैं__MASK_55__ आपके लिए जिससे की आप सारे __MASK_52__ एक साथ आपको मिल जाएं__MASK_56__ और आप revise कर पाएं__MASK_57__ फटा फटा इसको screenshot __MASK_54__ लो__MASK_58__ मैंने बहुत महनत से इसको लिखा है__MASK_59__ cube, cubite, __MASK_51__, __MASK_53__, hemisphere, sphere, in सबके curve, surface area, surface area and volume आपको पता होना चाहिए, यहां से आप note कर लीजे, अगर मैं बात करो next statistics, तो इस सकते हो__MASK_63__ और __MASK_62__ हमारा __MASK_61__ आता है __MASK_60__, probability की यह मैं बात करूँ तो यहां पर हमारा basic formula है, probability का number of favorable outcome upon total outcome, जिसमें point की बात करो तो तीन coin पर कोशन बन सकता है, तो one coin का outcome यह है, two coin का यह है, three coin का यह है, dice की बात करें, तो एक die का सकता है, यह दो dice का सकता है, ठीक है, तो दो dice की outcome 36 होते है याद रखना है और फिर आता है आपका __MASK_64__ कार्ड क्या होते हैं कार्ड __MASK_65__ हमारे पास होते हैं फिप्टी टू और फिप्टी टू कार्ट में कौन कौन होता है रेड हमारे पार 13 13 13 13 चार पार्ट में डिवाइड होते हैं जिसमें हमारे पार डाइमन और हर्ट रहता है � __MASK_69__ __MASK_70__ का __MASK_66__ और स्पीड होता है __MASK_67__ __MASK_71__ का जिसमें नंबरिंग __MASK_68__ है हमारी 2345678910 सब में यही रहता है ठीक है जैक क्वीन किंग यह हमारे फेस काड होते हैं इसमें हमारे जो फेस काड होते हैं वो होते हैं जैक क्वीन किंग टोटल हमारे पास कितने फेस काड हो ग करते हैं लाश्ट में की बात बोरूँगा कि आप सभी सफलों तरने बाद",
+  "placeholder_map": {
+    "__MASK_0__": {
+      "original": "real",
+      "label": "TECH"
+    },
+    "__MASK_1__": {
+      "original": "into",
+      "label": "TECH"
+    },
+    "__MASK_2__": {
+      "original": "second chapter",
+      "label": "TECH"
+    },
+    "__MASK_3__": {
+      "original": "two numbers",
+      "label": "TECH"
+    },
+    "__MASK_4__": {
+      "original": "प्रोड़क्ट",
+      "label": "TECH"
+    },
+    "__MASK_5__": {
+      "original": "equation to",
+      "label": "TECH"
+    },
+    "__MASK_6__": {
+      "original": "स्क्रीन",
+      "label": "TECH"
+    },
+    "__MASK_7__": {
+      "original": "linear",
+      "label": "TECH"
+    },
+    "__MASK_8__": {
+      "original": "सॉर्ट",
+      "label": "TECH"
+    },
+    "__MASK_9__": {
+      "original": "बीटा",
+      "label": "TECH"
+    },
+    "__MASK_10__": {
+      "original": "लेते",
+      "label": "TECH"
+    },
+    "__MASK_11__": {
+      "original": "upon",
+      "label": "TECH"
+    },
+    "__MASK_12__": {
+      "original": "या",
+      "label": "TECH"
+    },
+    "__MASK_13__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_14__": {
+      "original": "triangle",
+      "label": "TECH"
+    },
+    "__MASK_15__": {
+      "original": "parallel",
+      "label": "TECH"
+    },
+    "__MASK_16__": {
+      "original": "nature",
+      "label": "TECH"
+    },
+    "__MASK_17__": {
+      "original": "screen",
+      "label": "TECH"
+    },
+    "__MASK_18__": {
+      "original": "trump",
+      "label": "TECH"
+    },
+    "__MASK_19__": {
+      "original": "sort",
+      "label": "TECH"
+    },
+    "__MASK_20__": {
+      "original": "from",
+      "label": "TECH"
+    },
+    "__MASK_21__": {
+      "original": "line",
+      "label": "TECH"
+    },
+    "__MASK_22__": {
+      "original": "nth",
+      "label": "TECH"
+    },
+    "__MASK_23__": {
+      "original": "nth",
+      "label": "TECH"
+    },
+    "__MASK_24__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_25__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_26__": {
+      "original": "trigonometry",
+      "label": "TECH"
+    },
+    "__MASK_27__": {
+      "original": "criteria",
+      "label": "TECH"
+    },
+    "__MASK_28__": {
+      "original": "triangle",
+      "label": "TECH"
+    },
+    "__MASK_29__": {
+      "original": "geometry",
+      "label": "TECH"
+    },
+    "__MASK_30__": {
+      "original": "triangle",
+      "label": "TECH"
+    },
+    "__MASK_31__": {
+      "original": "और",
+      "label": "TECH"
+    },
+    "__MASK_32__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_33__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_34__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_35__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_36__": {
+      "original": "trigonometry",
+      "label": "TECH"
+    },
+    "__MASK_37__": {
+      "original": "application",
+      "label": "TECH"
+    },
+    "__MASK_38__": {
+      "original": "identity",
+      "label": "TECH"
+    },
+    "__MASK_39__": {
+      "original": "angle",
+      "label": "TECH"
+    },
+    "__MASK_40__": {
+      "original": "टेवल",
+      "label": "TECH"
+    },
+    "__MASK_41__": {
+      "original": "circumference",
+      "label": "TECH"
+    },
+    "__MASK_42__": {
+      "original": "triangle",
+      "label": "TECH"
+    },
+    "__MASK_43__": {
+      "original": "concept",
+      "label": "TECH"
+    },
+    "__MASK_44__": {
+      "original": "related",
+      "label": "TECH"
+    },
+    "__MASK_45__": {
+      "original": "segment",
+      "label": "TECH"
+    },
+    "__MASK_46__": {
+      "original": "area",
+      "label": "TECH"
+    },
+    "__MASK_47__": {
+      "original": "area",
+      "label": "TECH"
+    },
+    "__MASK_48__": {
+      "original": "cod",
+      "label": "TECH"
+    },
+    "__MASK_49__": {
+      "original": "दो",
+      "label": "TECH"
+    },
+    "__MASK_50__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_51__": {
+      "original": "cylinder",
+      "label": "TECH"
+    },
+    "__MASK_52__": {
+      "original": "formula",
+      "label": "TECH"
+    },
+    "__MASK_53__": {
+      "original": "cone",
+      "label": "TECH"
+    },
+    "__MASK_54__": {
+      "original": "ले",
+      "label": "TECH"
+    },
+    "__MASK_55__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_56__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_57__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_58__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_59__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_60__": {
+      "original": "probability",
+      "label": "TECH"
+    },
+    "__MASK_61__": {
+      "original": "chapter",
+      "label": "TECH"
+    },
+    "__MASK_62__": {
+      "original": "last",
+      "label": "TECH"
+    },
+    "__MASK_63__": {
+      "original": ",",
+      "label": "TECH"
+    },
+    "__MASK_64__": {
+      "original": "कार्ड",
+      "label": "TECH"
+    },
+    "__MASK_65__": {
+      "original": "टोटल",
+      "label": "TECH"
+    },
+    "__MASK_66__": {
+      "original": "क्लाब",
+      "label": "TECH"
+    },
+    "__MASK_67__": {
+      "original": "ब्लेक",
+      "label": "TECH"
+    },
+    "__MASK_68__": {
+      "original": "होती",
+      "label": "TECH"
+    },
+    "__MASK_69__": {
+      "original": "रेट",
+      "label": "TECH"
+    },
+    "__MASK_70__": {
+      "original": "कलर",
+      "label": "TECH"
+    },
+    "__MASK_71__": {
+      "original": "कलर",
+      "label": "TECH"
+    }
+  },
+  "segments": [
+    {
+      "id": 1,
+      "start": 0.0,
+      "end": 13.02,
+      "text": " Hello students, कैसे हैं आप सब लोग, I hope आप लोग अच्छे होंगे, अच्छे से पढ़ाई कर रहा होंगे, सिर्फ कुछ मिनट्स में आप पूरी मैस को revise करने वाले हैं, सारे formula रिवाइस करने वाले, चलिए स्टार्ट करते हैं, पहले चप्टर से, real number, एक formula काम का है, जो कि यह SCF into LCM,",
+      "avg_logprob": -0.13950224346584744,
+      "no_speech_prob": 7.840720295249071e-10,
+      "words": [
+        {
+          "word": " Hello",
+          "start": 0.0,
+          "end": 0.22,
+          "probability": 0.0012130815302953124
+        },
+        {
+          "word": " students,",
+          "start": 0.22,
+          "end": 0.74,
+          "probability": 0.5935218930244446
+        },
+        {
+          "word": " कैसे",
+          "start": 0.94,
+          "end": 1.12,
+          "probability": 0.9379623830318451
+        },
+        {
+          "word": " हैं",
+          "start": 1.12,
+          "end": 1.22,
+          "probability": 0.9672103524208069
+        },
+        {
+          "word": " आप",
+          "start": 1.22,
+          "end": 1.36,
+          "probability": 0.8435986340045929
+        },
+        {
+          "word": " सब",
+          "start": 1.36,
+          "end": 1.52,
+          "probability": 0.9908629457155863
+        },
+        {
+          "word": " लोग,",
+          "start": 1.52,
+          "end": 1.84,
+          "probability": 0.9934827566146851
+        },
+        {
+          "word": " I",
+          "start": 1.92,
+          "end": 2.02,
+          "probability": 0.9623261094093323
+        },
+        {
+          "word": " hope",
+          "start": 2.02,
+          "end": 2.4,
+          "probability": 0.9827704429626465
+        },
+        {
+          "word": " आप",
+          "start": 2.4,
+          "end": 2.66,
+          "probability": 0.9622895419597626
+        },
+        {
+          "word": " लोग",
+          "start": 2.66,
+          "end": 2.84,
+          "probability": 0.9569568037986755
+        },
+        {
+          "word": " अच्छे",
+          "start": 2.84,
+          "end": 3.06,
+          "probability": 0.9558475390076637
+        },
+        {
+          "word": " होंगे,",
+          "start": 3.06,
+          "end": 3.26,
+          "probability": 0.9118183453877767
+        },
+        {
+          "word": " अच्छे",
+          "start": 3.28,
+          "end": 3.52,
+          "probability": 0.9878348633646965
+        },
+        {
+          "word": " से",
+          "start": 3.52,
+          "end": 3.66,
+          "probability": 0.6130949035286903
+        },
+        {
+          "word": " पढ़ाई",
+          "start": 3.66,
+          "end": 3.9,
+          "probability": 0.8662034339374967
+        },
+        {
+          "word": " कर",
+          "start": 3.9,
+          "end": 4.06,
+          "probability": 0.9960992932319641
+        },
+        {
+          "word": " रहा",
+          "start": 4.06,
+          "end": 4.14,
+          "probability": 0.8836876302957535
+        },
+        {
+          "word": " होंगे,",
+          "start": 4.14,
+          "end": 4.24,
+          "probability": 0.8056832750638326
+        },
+        {
+          "word": " सिर्फ",
+          "start": 4.28,
+          "end": 4.52,
+          "probability": 0.9707229634126028
+        },
+        {
+          "word": " कुछ",
+          "start": 4.52,
+          "end": 4.76,
+          "probability": 0.9903895378112793
+        },
+        {
+          "word": " मिनट्स",
+          "start": 4.76,
+          "end": 5.08,
+          "probability": 0.7600538219724383
+        },
+        {
+          "word": " में",
+          "start": 5.08,
+          "end": 5.26,
+          "probability": 0.9901964068412781
+        },
+        {
+          "word": " आप",
+          "start": 5.26,
+          "end": 5.52,
+          "probability": 0.9636787325143814
+        },
+        {
+          "word": " पूरी",
+          "start": 5.52,
+          "end": 5.82,
+          "probability": 0.9910241961479187
+        },
+        {
+          "word": " मैस",
+          "start": 5.82,
+          "end": 6.06,
+          "probability": 0.8300214807192484
+        },
+        {
+          "word": " को",
+          "start": 6.06,
+          "end": 6.16,
+          "probability": 0.9575326442718506
+        },
+        {
+          "word": " revise",
+          "start": 6.16,
+          "end": 6.4,
+          "probability": 0.12474731355905533
+        },
+        {
+          "word": " करने",
+          "start": 6.4,
+          "end": 6.72,
+          "probability": 0.9961374998092651
+        },
+        {
+          "word": " वाले",
+          "start": 6.72,
+          "end": 6.9,
+          "probability": 0.9821733832359314
+        },
+        {
+          "word": " हैं,",
+          "start": 6.9,
+          "end": 6.98,
+          "probability": 0.6833813389142355
+        },
+        {
+          "word": " सारे",
+          "start": 6.98,
+          "end": 7.22,
+          "probability": 0.7466174736618996
+        },
+        {
+          "word": " formula",
+          "start": 7.22,
+          "end": 7.52,
+          "probability": 0.6835092902183533
+        },
+        {
+          "word": " रिवाइस",
+          "start": 7.52,
+          "end": 7.82,
+          "probability": 0.8324419789844089
+        },
+        {
+          "word": " करने",
+          "start": 7.82,
+          "end": 8.06,
+          "probability": 0.9958031624555588
+        },
+        {
+          "word": " वाले,",
+          "start": 8.06,
+          "end": 8.26,
+          "probability": 0.992585825920105
+        },
+        {
+          "word": " चलिए",
+          "start": 8.48,
+          "end": 8.72,
+          "probability": 0.84709965189298
+        },
+        {
+          "word": " स्टार्ट",
+          "start": 8.72,
+          "end": 9.02,
+          "probability": 0.8892595238155789
+        },
+        {
+          "word": " करते",
+          "start": 9.02,
+          "end": 9.14,
+          "probability": 0.9801022708415985
+        },
+        {
+          "word": " हैं,",
+          "start": 9.14,
+          "end": 9.18,
+          "probability": 0.7865143815676371
+        },
+        {
+          "word": " पहले",
+          "start": 9.24,
+          "end": 9.48,
+          "probability": 0.9610183954238891
+        },
+        {
+          "word": " चप्टर",
+          "start": 9.48,
+          "end": 9.74,
+          "probability": 0.8686583116650581
+        },
+        {
+          "word": " से,",
+          "start": 9.74,
+          "end": 9.9,
+          "probability": 0.9076677858829498
+        },
+        {
+          "word": " real",
+          "start": 9.96,
+          "end": 10.06,
+          "probability": 0.45828279852867126
+        },
+        {
+          "word": " number,",
+          "start": 10.06,
+          "end": 10.3,
+          "probability": 0.8983663320541382
+        },
+        {
+          "word": " एक",
+          "start": 10.68,
+          "end": 10.88,
+          "probability": 0.9935199419657389
+        },
+        {
+          "word": " formula",
+          "start": 10.88,
+          "end": 11.12,
+          "probability": 0.9664605855941772
+        },
+        {
+          "word": " काम",
+          "start": 11.12,
+          "end": 11.42,
+          "probability": 0.9554516275723776
+        },
+        {
+          "word": " का",
+          "start": 11.42,
+          "end": 11.58,
+          "probability": 0.9463997483253479
+        },
+        {
+          "word": " है,",
+          "start": 11.58,
+          "end": 11.6,
+          "probability": 0.7886199355125427
+        },
+        {
+          "word": " जो",
+          "start": 11.6,
+          "end": 11.7,
+          "probability": 0.9583738843599955
+        },
+        {
+          "word": " कि",
+          "start": 11.7,
+          "end": 11.82,
+          "probability": 0.9124328196048737
+        },
+        {
+          "word": " यह",
+          "start": 11.82,
+          "end": 11.94,
+          "probability": 0.7148575683434805
+        },
+        {
+          "word": " SCF",
+          "start": 11.94,
+          "end": 12.46,
+          "probability": 0.8798546195030212
+        },
+        {
+          "word": " into",
+          "start": 12.46,
+          "end": 12.66,
+          "probability": 0.8889077305793762
+        },
+        {
+          "word": " LCM,",
+          "start": 12.66,
+          "end": 13.02,
+          "probability": 0.9018759727478027
+        }
+      ],
+      "original_text": "Hello students, कैसे हैं आप सब लोग, I hope आप लोग अच्छे होंगे, अच्छे से पढ़ाई कर रहा होंगे, सिर्फ कुछ मिनट्स में आप पूरी मैस को revise करने वाले हैं, सारे formula रिवाइस करने वाले, चलिए स्टार्ट करते हैं, पहले चप्टर से, real number, एक formula काम का है, जो कि यह SCF into LCM,",
+      "masked_text": "Hello students, कैसे हैं आप सब लोग, I hope आप लोग अच्छे होंगे, अच्छे से पढ़ाई कर रहा होंगे, सिर्फ कुछ मिनट्स में आप पूरी मैस को revise करने वाले हैं, सारे formula रिवाइस करने वाले, चलिए स्टार्ट करते हैं, पहले चप्टर से, __MASK_0__ number, एक formula काम का है, जो कि यह SCF __MASK_1__ LCM,",
+      "placeholder_map": {
+        "__MASK_0__": {
+          "original": "real",
+          "label": "TECH"
+        },
+        "__MASK_1__": {
+          "original": "into",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 2
+    },
+    {
+      "id": 2,
+      "start": 13.02,
+      "end": 26.86,
+      "text": " प्रोड़क्ट आप two numbers, second chapter है हमारा पॉलिने मेल, जिसमें हमारे formula काम के, अगर हमारी पॉलिमेल एक स्कॉर प्लस ब्स प्लस अलफा प्लस बीटा होता है, मैनस बीपन है, अलफा न्टु बीटा सी अपन है, और formation अपको पॉलिमेल होता है, एक स्कॉर माइनस अलफा प्लस �",
+      "avg_logprob": -0.2625385915751949,
+      "no_speech_prob": 3.1066691441594685e-09,
+      "words": [
+        {
+          "word": " प्रोड़क्ट",
+          "start": 13.02,
+          "end": 13.68,
+          "probability": 0.7186721758200572
+        },
+        {
+          "word": " आप",
+          "start": 13.68,
+          "end": 13.8,
+          "probability": 0.7010005284100771
+        },
+        {
+          "word": " two",
+          "start": 13.8,
+          "end": 13.92,
+          "probability": 0.03056897222995758
+        },
+        {
+          "word": " numbers,",
+          "start": 13.92,
+          "end": 14.14,
+          "probability": 0.8600054979324341
+        },
+        {
+          "word": " second",
+          "start": 14.8,
+          "end": 14.84,
+          "probability": 0.8097646832466125
+        },
+        {
+          "word": " chapter",
+          "start": 14.84,
+          "end": 15.16,
+          "probability": 0.9472647309303284
+        },
+        {
+          "word": " है",
+          "start": 15.16,
+          "end": 15.3,
+          "probability": 0.8914719521999359
+        },
+        {
+          "word": " हमारा",
+          "start": 15.3,
+          "end": 15.52,
+          "probability": 0.9001105189323425
+        },
+        {
+          "word": " पॉलिने",
+          "start": 15.52,
+          "end": 15.9,
+          "probability": 0.6285944394767284
+        },
+        {
+          "word": " मेल,",
+          "start": 15.9,
+          "end": 16.0,
+          "probability": 0.5879417657852173
+        },
+        {
+          "word": " जिसमें",
+          "start": 16.06,
+          "end": 16.3,
+          "probability": 0.9640048827443805
+        },
+        {
+          "word": " हमारे",
+          "start": 16.3,
+          "end": 16.5,
+          "probability": 0.9886301279067993
+        },
+        {
+          "word": " formula",
+          "start": 16.5,
+          "end": 16.74,
+          "probability": 0.36800524592399597
+        },
+        {
+          "word": " काम",
+          "start": 16.74,
+          "end": 17.02,
+          "probability": 0.9761988917986552
+        },
+        {
+          "word": " के,",
+          "start": 17.02,
+          "end": 17.2,
+          "probability": 0.8322495520114899
+        },
+        {
+          "word": " अगर",
+          "start": 17.3,
+          "end": 17.8,
+          "probability": 0.9844246625900268
+        },
+        {
+          "word": " हमारी",
+          "start": 17.8,
+          "end": 18.12,
+          "probability": 0.9791741013526917
+        },
+        {
+          "word": " पॉलिमेल",
+          "start": 18.12,
+          "end": 18.5,
+          "probability": 0.7978639900684357
+        },
+        {
+          "word": " एक",
+          "start": 18.5,
+          "end": 18.82,
+          "probability": 0.4880201468865077
+        },
+        {
+          "word": " स्कॉर",
+          "start": 18.82,
+          "end": 19.1,
+          "probability": 0.7934686144193014
+        },
+        {
+          "word": " प्लस",
+          "start": 19.1,
+          "end": 19.28,
+          "probability": 0.8756390571594238
+        },
+        {
+          "word": " ब्स",
+          "start": 19.28,
+          "end": 19.52,
+          "probability": 0.4928276874125004
+        },
+        {
+          "word": " प्लस",
+          "start": 19.52,
+          "end": 19.74,
+          "probability": 0.8494202494621277
+        },
+        {
+          "word": " अलफा",
+          "start": 19.74,
+          "end": 20.2,
+          "probability": 0.7662378599246343
+        },
+        {
+          "word": " प्लस",
+          "start": 20.2,
+          "end": 20.4,
+          "probability": 0.9662281632423401
+        },
+        {
+          "word": " बीटा",
+          "start": 20.4,
+          "end": 20.62,
+          "probability": 0.7972888946533203
+        },
+        {
+          "word": " होता",
+          "start": 20.62,
+          "end": 20.7,
+          "probability": 0.8829456567764282
+        },
+        {
+          "word": " है,",
+          "start": 20.7,
+          "end": 20.84,
+          "probability": 0.9870947599411011
+        },
+        {
+          "word": " मैनस",
+          "start": 20.92,
+          "end": 21.06,
+          "probability": 0.5682774409651756
+        },
+        {
+          "word": " बीपन",
+          "start": 21.06,
+          "end": 21.4,
+          "probability": 0.5286394556363424
+        },
+        {
+          "word": " है,",
+          "start": 21.4,
+          "end": 21.5,
+          "probability": 0.4332021474838257
+        },
+        {
+          "word": " अलफा",
+          "start": 21.54,
+          "end": 21.8,
+          "probability": 0.8120300273100535
+        },
+        {
+          "word": " न्टु",
+          "start": 21.8,
+          "end": 21.96,
+          "probability": 0.6135592247758593
+        },
+        {
+          "word": " बीटा",
+          "start": 21.96,
+          "end": 22.14,
+          "probability": 0.8541969259579977
+        },
+        {
+          "word": " सी",
+          "start": 22.14,
+          "end": 22.3,
+          "probability": 0.6350761651992798
+        },
+        {
+          "word": " अपन",
+          "start": 22.3,
+          "end": 22.52,
+          "probability": 0.816457599401474
+        },
+        {
+          "word": " है,",
+          "start": 22.52,
+          "end": 22.66,
+          "probability": 0.6389017403125763
+        },
+        {
+          "word": " और",
+          "start": 23.04,
+          "end": 23.22,
+          "probability": 0.9897770086924235
+        },
+        {
+          "word": " formation",
+          "start": 23.22,
+          "end": 23.86,
+          "probability": 0.6128157377243042
+        },
+        {
+          "word": " अपको",
+          "start": 23.86,
+          "end": 24.36,
+          "probability": 0.715391144156456
+        },
+        {
+          "word": " पॉलिमेल",
+          "start": 24.36,
+          "end": 24.72,
+          "probability": 0.9156530565685697
+        },
+        {
+          "word": " होता",
+          "start": 24.72,
+          "end": 24.94,
+          "probability": 0.9856823235750198
+        },
+        {
+          "word": " है,",
+          "start": 24.94,
+          "end": 24.98,
+          "probability": 0.9980016052722931
+        },
+        {
+          "word": " एक",
+          "start": 25.04,
+          "end": 25.22,
+          "probability": 0.779265820980072
+        },
+        {
+          "word": " स्कॉर",
+          "start": 25.22,
+          "end": 25.66,
+          "probability": 0.9520270029703776
+        },
+        {
+          "word": " माइनस",
+          "start": 25.66,
+          "end": 26.12,
+          "probability": 0.83922411998113
+        },
+        {
+          "word": " अलफा",
+          "start": 26.12,
+          "end": 26.5,
+          "probability": 0.9697015881538391
+        },
+        {
+          "word": " प्लस",
+          "start": 26.5,
+          "end": 26.74,
+          "probability": 0.9842552065849304
+        },
+        {
+          "word": " �",
+          "start": 26.74,
+          "end": 26.86,
+          "probability": 0.9949496984481812
+        }
+      ],
+      "original_text": "प्रोड़क्ट आप two numbers, second chapter है हमारा पॉलिने मेल, जिसमें हमारे formula काम के, अगर हमारी पॉलिमेल एक स्कॉर प्लस ब्स प्लस अलफा प्लस बीटा होता है, मैनस बीपन है, अलफा न्टु बीटा सी अपन है, और formation अपको पॉलिमेल होता है, एक स्कॉर माइनस अलफा प्लस �",
+      "masked_text": "__MASK_4__ आप __MASK_3__, __MASK_2__ है हमारा पॉलिने मेल, जिसमें हमारे formula काम के, अगर हमारी पॉलिमेल एक स्कॉर प्लस ब्स प्लस अलफा प्लस बीटा होता है, मैनस बीपन है, अलफा न्टु बीटा सी अपन है, और formation अपको पॉलिमेल होता है, एक स्कॉर माइनस अलफा प्लस �",
+      "placeholder_map": {
+        "__MASK_2__": {
+          "original": "second chapter",
+          "label": "TECH"
+        },
+        "__MASK_3__": {
+          "original": "two numbers",
+          "label": "TECH"
+        },
+        "__MASK_4__": {
+          "original": "प्रोड़क्ट",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 3
+    },
+    {
+      "id": 3,
+      "start": 26.86,
+      "end": 56.76,
+      "text": " प्लस अलफा बीटा और के बाहर लगाना है, स्क्रीन सॉर्ट लेते जाना हर एक पेच का, या फिर आप नोट कर लो तो बस रहेगा, थर्ड चेप्टर की बात करें, linear equation to variable, इसमें आपको consistency समझना है, कि अगर a1 upon a2, not equal to b1 upon b2, intersecting unique solution, a1 upon a2, अगर ये 3 equal है, coincident या infinite, दो equal है",
+      "avg_logprob": -0.1494600681980629,
+      "no_speech_prob": 3.6291309957192652e-09,
+      "words": [
+        {
+          "word": " प्लस",
+          "start": 26.86,
+          "end": 27.36,
+          "probability": 0.6421606272459031
+        },
+        {
+          "word": " अलफा",
+          "start": 27.36,
+          "end": 28.02,
+          "probability": 0.7687787314256033
+        },
+        {
+          "word": " बीटा",
+          "start": 28.02,
+          "end": 28.24,
+          "probability": 0.7055583397547404
+        },
+        {
+          "word": " और",
+          "start": 28.24,
+          "end": 28.36,
+          "probability": 0.5764208485682806
+        },
+        {
+          "word": " के",
+          "start": 28.36,
+          "end": 28.5,
+          "probability": 0.7665766477584839
+        },
+        {
+          "word": " बाहर",
+          "start": 28.5,
+          "end": 28.7,
+          "probability": 0.9429329395294189
+        },
+        {
+          "word": " लगाना",
+          "start": 28.7,
+          "end": 29.0,
+          "probability": 0.9782504524503436
+        },
+        {
+          "word": " है,",
+          "start": 29.0,
+          "end": 29.1,
+          "probability": 0.8839264214038849
+        },
+        {
+          "word": " स्क्रीन",
+          "start": 29.46,
+          "end": 29.68,
+          "probability": 0.8435709348746708
+        },
+        {
+          "word": " सॉर्ट",
+          "start": 29.68,
+          "end": 29.88,
+          "probability": 0.6560814380645752
+        },
+        {
+          "word": " लेते",
+          "start": 29.88,
+          "end": 30.1,
+          "probability": 0.9645414113998413
+        },
+        {
+          "word": " जाना",
+          "start": 30.1,
+          "end": 30.26,
+          "probability": 0.9907709240913392
+        },
+        {
+          "word": " हर",
+          "start": 30.26,
+          "end": 30.44,
+          "probability": 0.9488520920276642
+        },
+        {
+          "word": " एक",
+          "start": 30.44,
+          "end": 30.56,
+          "probability": 0.9509998361269633
+        },
+        {
+          "word": " पेच",
+          "start": 30.56,
+          "end": 30.78,
+          "probability": 0.8936734676361084
+        },
+        {
+          "word": " का,",
+          "start": 30.78,
+          "end": 30.98,
+          "probability": 0.8606844246387482
+        },
+        {
+          "word": " या",
+          "start": 31.06,
+          "end": 31.36,
+          "probability": 0.9251411159833273
+        },
+        {
+          "word": " फिर",
+          "start": 31.36,
+          "end": 31.52,
+          "probability": 0.990487277507782
+        },
+        {
+          "word": " आप",
+          "start": 31.52,
+          "end": 31.64,
+          "probability": 0.9845231771469116
+        },
+        {
+          "word": " नोट",
+          "start": 31.64,
+          "end": 31.9,
+          "probability": 0.8907149791717529
+        },
+        {
+          "word": " कर",
+          "start": 31.9,
+          "end": 32.08,
+          "probability": 0.9895691871643066
+        },
+        {
+          "word": " लो",
+          "start": 32.08,
+          "end": 32.16,
+          "probability": 0.9654356241226196
+        },
+        {
+          "word": " तो",
+          "start": 32.16,
+          "end": 32.28,
+          "probability": 0.8652082284291586
+        },
+        {
+          "word": " बस",
+          "start": 32.28,
+          "end": 32.48,
+          "probability": 0.8728742798169454
+        },
+        {
+          "word": " रहेगा,",
+          "start": 32.48,
+          "end": 32.98,
+          "probability": 0.9144193189484733
+        },
+        {
+          "word": " थर्ड",
+          "start": 33.36,
+          "end": 33.64,
+          "probability": 0.753020445505778
+        },
+        {
+          "word": " चेप्टर",
+          "start": 33.64,
+          "end": 33.86,
+          "probability": 0.8332604964574178
+        },
+        {
+          "word": " की",
+          "start": 33.86,
+          "end": 33.92,
+          "probability": 0.9526297748088837
+        },
+        {
+          "word": " बात",
+          "start": 33.92,
+          "end": 34.06,
+          "probability": 0.9629545360803604
+        },
+        {
+          "word": " करें,",
+          "start": 34.06,
+          "end": 34.22,
+          "probability": 0.9625846743583679
+        },
+        {
+          "word": " linear",
+          "start": 34.28,
+          "end": 34.46,
+          "probability": 0.5560189485549927
+        },
+        {
+          "word": " equation",
+          "start": 34.46,
+          "end": 34.78,
+          "probability": 0.9067750573158264
+        },
+        {
+          "word": " to",
+          "start": 34.78,
+          "end": 35.04,
+          "probability": 0.24996735155582428
+        },
+        {
+          "word": " variable,",
+          "start": 35.04,
+          "end": 35.38,
+          "probability": 0.9754292964935303
+        },
+        {
+          "word": " इसमें",
+          "start": 35.82,
+          "end": 36.22,
+          "probability": 0.9831482072671255
+        },
+        {
+          "word": " आपको",
+          "start": 36.22,
+          "end": 36.56,
+          "probability": 0.9948843121528625
+        },
+        {
+          "word": " consistency",
+          "start": 36.56,
+          "end": 36.96,
+          "probability": 0.851716935634613
+        },
+        {
+          "word": " समझना",
+          "start": 36.96,
+          "end": 37.64,
+          "probability": 0.9819574058055878
+        },
+        {
+          "word": " है,",
+          "start": 37.64,
+          "end": 37.74,
+          "probability": 0.9893498122692108
+        },
+        {
+          "word": " कि",
+          "start": 38.0,
+          "end": 38.18,
+          "probability": 0.9866946339607239
+        },
+        {
+          "word": " अगर",
+          "start": 38.18,
+          "end": 38.44,
+          "probability": 0.9913710474967956
+        },
+        {
+          "word": " a1",
+          "start": 38.44,
+          "end": 38.84,
+          "probability": 0.4624704048037529
+        },
+        {
+          "word": " upon",
+          "start": 38.84,
+          "end": 39.06,
+          "probability": 0.7899253964424133
+        },
+        {
+          "word": " a2,",
+          "start": 39.06,
+          "end": 39.3,
+          "probability": 0.9344483315944672
+        },
+        {
+          "word": " not",
+          "start": 39.36,
+          "end": 39.48,
+          "probability": 0.5865815877914429
+        },
+        {
+          "word": " equal",
+          "start": 39.48,
+          "end": 39.68,
+          "probability": 0.5313778519630432
+        },
+        {
+          "word": " to",
+          "start": 39.68,
+          "end": 39.82,
+          "probability": 0.9778727293014526
+        },
+        {
+          "word": " b1",
+          "start": 39.82,
+          "end": 40.04,
+          "probability": 0.8289788663387299
+        },
+        {
+          "word": " upon",
+          "start": 40.04,
+          "end": 40.22,
+          "probability": 0.998120129108429
+        },
+        {
+          "word": " b2,",
+          "start": 40.22,
+          "end": 40.5,
+          "probability": 0.9747490584850311
+        },
+        {
+          "word": " intersecting",
+          "start": 40.92,
+          "end": 41.68,
+          "probability": 0.7933354079723358
+        },
+        {
+          "word": " unique",
+          "start": 41.68,
+          "end": 41.9,
+          "probability": 0.8880140781402588
+        },
+        {
+          "word": " solution,",
+          "start": 41.9,
+          "end": 42.28,
+          "probability": 0.9872810244560242
+        },
+        {
+          "word": " a1",
+          "start": 42.5,
+          "end": 42.7,
+          "probability": 0.9629960358142853
+        },
+        {
+          "word": " upon",
+          "start": 42.7,
+          "end": 42.88,
+          "probability": 0.9995336532592773
+        },
+        {
+          "word": " a2,",
+          "start": 42.88,
+          "end": 43.22,
+          "probability": 0.9899879097938538
+        },
+        {
+          "word": " अगर",
+          "start": 43.52,
+          "end": 43.76,
+          "probability": 0.9868437647819519
+        },
+        {
+          "word": " ये",
+          "start": 43.76,
+          "end": 43.86,
+          "probability": 0.8426920771598816
+        },
+        {
+          "word": " 3",
+          "start": 43.86,
+          "end": 44.0,
+          "probability": 0.7488638162612915
+        },
+        {
+          "word": " equal",
+          "start": 44.0,
+          "end": 44.28,
+          "probability": 0.5443513989448547
+        },
+        {
+          "word": " है,",
+          "start": 44.28,
+          "end": 44.48,
+          "probability": 0.9127762317657471
+        },
+        {
+          "word": " coincident",
+          "start": 44.6,
+          "end": 45.08,
+          "probability": 0.8197665214538574
+        },
+        {
+          "word": " या",
+          "start": 45.08,
+          "end": 45.26,
+          "probability": 0.7043865919113159
+        },
+        {
+          "word": " infinite,",
+          "start": 45.26,
+          "end": 45.58,
+          "probability": 0.9732575416564941
+        },
+        {
+          "word": " दो",
+          "start": 46.16,
+          "end": 46.36,
+          "probability": 0.7644698619842529
+        },
+        {
+          "word": " equal",
+          "start": 46.36,
+          "end": 46.7,
+          "probability": 0.9190796613693237
+        },
+        {
+          "word": " है",
+          "start": 46.7,
+          "end": 56.76,
+          "probability": 0.9979195296764374
+        }
+      ],
+      "original_text": "प्लस अलफा बीटा और के बाहर लगाना है, स्क्रीन सॉर्ट लेते जाना हर एक पेच का, या फिर आप नोट कर लो तो बस रहेगा, थर्ड चेप्टर की बात करें, linear equation to variable, इसमें आपको consistency समझना है, कि अगर a1 upon a2, not equal to b1 upon b2, intersecting unique solution, a1 upon a2, अगर ये 3 equal है, coincident या infinite, दो equal है",
+      "masked_text": "प्लस अलफा __MASK_9__ और के बाहर लगाना है__MASK_13__ __MASK_6__ __MASK_8__ __MASK_10__ जाना हर एक पेच का, __MASK_12__ फिर आप नोट कर लो तो बस रहेगा, थर्ड चेप्टर की बात करें, __MASK_7__ __MASK_5__ variable, इसमें आपको consistency समझना है, कि अगर a1 __MASK_11__ a2, not equal to b1 upon b2, intersecting unique solution, a1 upon a2, अगर ये 3 equal है, coincident या infinite, दो equal है",
+      "placeholder_map": {
+        "__MASK_5__": {
+          "original": "equation to",
+          "label": "TECH"
+        },
+        "__MASK_6__": {
+          "original": "स्क्रीन",
+          "label": "TECH"
+        },
+        "__MASK_7__": {
+          "original": "linear",
+          "label": "TECH"
+        },
+        "__MASK_8__": {
+          "original": "सॉर्ट",
+          "label": "TECH"
+        },
+        "__MASK_9__": {
+          "original": "बीटा",
+          "label": "TECH"
+        },
+        "__MASK_10__": {
+          "original": "लेते",
+          "label": "TECH"
+        },
+        "__MASK_11__": {
+          "original": "upon",
+          "label": "TECH"
+        },
+        "__MASK_12__": {
+          "original": "या",
+          "label": "TECH"
+        },
+        "__MASK_13__": {
+          "original": ",",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 9
+    },
+    {
+      "id": 4,
+      "start": 56.76,
+      "end": 80.32,
+      "text": " और nature of roots आपकी ये है, तो ये आपको याद रखना है, इसकी बाद में बात करूँ, ap की, तो ap में दो formula है, एक nth trump का है, और एक sum of n trump का है, तो इसका भी आप screen sort ले ले, और nth trump from end का formula है, l minus n minus 1 into d, इसका दाता triangle, triangle में bpt, जिसमें side के ratio लेते हैं, अगर ये line parallel है, और similarity के हमारे",
+      "avg_logprob": -0.10284773163464038,
+      "no_speech_prob": 3.668144676893803e-09,
+      "words": [
+        {
+          "word": " और",
+          "start": 56.76,
+          "end": 57.26,
+          "probability": 0.9089386661847433
+        },
+        {
+          "word": " nature",
+          "start": 57.26,
+          "end": 57.62,
+          "probability": 0.465490460395813
+        },
+        {
+          "word": " of",
+          "start": 57.62,
+          "end": 57.82,
+          "probability": 0.9838762879371643
+        },
+        {
+          "word": " roots",
+          "start": 57.82,
+          "end": 58.04,
+          "probability": 0.9568732976913452
+        },
+        {
+          "word": " आपकी",
+          "start": 58.04,
+          "end": 58.52,
+          "probability": 0.8955078025658926
+        },
+        {
+          "word": " ये",
+          "start": 58.52,
+          "end": 58.74,
+          "probability": 0.805193285147349
+        },
+        {
+          "word": " है,",
+          "start": 58.74,
+          "end": 58.86,
+          "probability": 0.9877859652042389
+        },
+        {
+          "word": " तो",
+          "start": 58.94,
+          "end": 59.0,
+          "probability": 0.9931627909342448
+        },
+        {
+          "word": " ये",
+          "start": 59.0,
+          "end": 59.16,
+          "probability": 0.8598157366116842
+        },
+        {
+          "word": " आपको",
+          "start": 59.16,
+          "end": 59.36,
+          "probability": 0.9977583487828573
+        },
+        {
+          "word": " याद",
+          "start": 59.36,
+          "end": 59.54,
+          "probability": 0.9829625248908996
+        },
+        {
+          "word": " रखना",
+          "start": 59.54,
+          "end": 59.76,
+          "probability": 0.9916382431983948
+        },
+        {
+          "word": " है,",
+          "start": 59.76,
+          "end": 59.88,
+          "probability": 0.9919077455997467
+        },
+        {
+          "word": " इसकी",
+          "start": 60.38,
+          "end": 60.72,
+          "probability": 0.946378231048584
+        },
+        {
+          "word": " बाद",
+          "start": 60.72,
+          "end": 60.9,
+          "probability": 0.9469188451766968
+        },
+        {
+          "word": " में",
+          "start": 60.9,
+          "end": 60.98,
+          "probability": 0.9683732589085897
+        },
+        {
+          "word": " बात",
+          "start": 60.98,
+          "end": 61.1,
+          "probability": 0.8749922066926956
+        },
+        {
+          "word": " करूँ,",
+          "start": 61.1,
+          "end": 61.28,
+          "probability": 0.8679486215114594
+        },
+        {
+          "word": " ap",
+          "start": 61.3,
+          "end": 61.54,
+          "probability": 0.2822589874267578
+        },
+        {
+          "word": " की,",
+          "start": 61.54,
+          "end": 61.72,
+          "probability": 0.9773719012737274
+        },
+        {
+          "word": " तो",
+          "start": 61.82,
+          "end": 61.9,
+          "probability": 0.9658305446306864
+        },
+        {
+          "word": " ap",
+          "start": 61.9,
+          "end": 62.06,
+          "probability": 0.9834977388381958
+        },
+        {
+          "word": " में",
+          "start": 62.06,
+          "end": 62.64,
+          "probability": 0.9842233061790466
+        },
+        {
+          "word": " दो",
+          "start": 62.64,
+          "end": 62.9,
+          "probability": 0.8132719894250234
+        },
+        {
+          "word": " formula",
+          "start": 62.9,
+          "end": 63.22,
+          "probability": 0.41848787665367126
+        },
+        {
+          "word": " है,",
+          "start": 63.22,
+          "end": 63.38,
+          "probability": 0.7050821781158447
+        },
+        {
+          "word": " एक",
+          "start": 63.46,
+          "end": 63.68,
+          "probability": 0.9913206299146017
+        },
+        {
+          "word": " nth",
+          "start": 63.68,
+          "end": 63.98,
+          "probability": 0.7582202553749084
+        },
+        {
+          "word": " trump",
+          "start": 63.98,
+          "end": 64.16,
+          "probability": 0.3349786400794983
+        },
+        {
+          "word": " का",
+          "start": 64.16,
+          "end": 64.4,
+          "probability": 0.9889525771141052
+        },
+        {
+          "word": " है,",
+          "start": 64.4,
+          "end": 64.58,
+          "probability": 0.9972191154956818
+        },
+        {
+          "word": " और",
+          "start": 64.66,
+          "end": 64.84,
+          "probability": 0.9954257210095724
+        },
+        {
+          "word": " एक",
+          "start": 64.84,
+          "end": 65.0,
+          "probability": 0.9424558083216349
+        },
+        {
+          "word": " sum",
+          "start": 65.0,
+          "end": 65.6,
+          "probability": 0.9758255481719971
+        },
+        {
+          "word": " of",
+          "start": 65.6,
+          "end": 65.78,
+          "probability": 0.9993429780006409
+        },
+        {
+          "word": " n",
+          "start": 65.78,
+          "end": 66.02,
+          "probability": 0.9610649943351746
+        },
+        {
+          "word": " trump",
+          "start": 66.02,
+          "end": 66.24,
+          "probability": 0.8962942361831665
+        },
+        {
+          "word": " का",
+          "start": 66.24,
+          "end": 66.44,
+          "probability": 0.9986752569675446
+        },
+        {
+          "word": " है,",
+          "start": 66.44,
+          "end": 66.48,
+          "probability": 0.9974879622459412
+        },
+        {
+          "word": " तो",
+          "start": 66.56,
+          "end": 66.6,
+          "probability": 0.9972715775171915
+        },
+        {
+          "word": " इसका",
+          "start": 66.6,
+          "end": 66.78,
+          "probability": 0.9950787186622619
+        },
+        {
+          "word": " भी",
+          "start": 66.78,
+          "end": 66.88,
+          "probability": 0.9860246380170187
+        },
+        {
+          "word": " आप",
+          "start": 66.88,
+          "end": 67.02,
+          "probability": 0.8307669386267662
+        },
+        {
+          "word": " screen",
+          "start": 67.02,
+          "end": 67.22,
+          "probability": 0.6348418593406677
+        },
+        {
+          "word": " sort",
+          "start": 67.22,
+          "end": 67.44,
+          "probability": 0.3804316520690918
+        },
+        {
+          "word": " ले",
+          "start": 67.44,
+          "end": 67.54,
+          "probability": 0.912854810555776
+        },
+        {
+          "word": " ले,",
+          "start": 67.54,
+          "end": 67.62,
+          "probability": 0.8460713823636373
+        },
+        {
+          "word": " और",
+          "start": 67.92,
+          "end": 68.18,
+          "probability": 0.9981492559115092
+        },
+        {
+          "word": " nth",
+          "start": 68.18,
+          "end": 68.58,
+          "probability": 0.9832468032836914
+        },
+        {
+          "word": " trump",
+          "start": 68.58,
+          "end": 68.8,
+          "probability": 0.9594555497169495
+        },
+        {
+          "word": " from",
+          "start": 68.8,
+          "end": 69.04,
+          "probability": 0.9880038499832153
+        },
+        {
+          "word": " end",
+          "start": 69.04,
+          "end": 69.3,
+          "probability": 0.3342950940132141
+        },
+        {
+          "word": " का",
+          "start": 69.3,
+          "end": 69.48,
+          "probability": 0.9951195120811462
+        },
+        {
+          "word": " formula",
+          "start": 69.48,
+          "end": 69.74,
+          "probability": 0.9966527819633484
+        },
+        {
+          "word": " है,",
+          "start": 69.74,
+          "end": 69.9,
+          "probability": 0.998418390750885
+        },
+        {
+          "word": " l",
+          "start": 70.26,
+          "end": 70.28,
+          "probability": 0.859271228313446
+        },
+        {
+          "word": " minus",
+          "start": 70.28,
+          "end": 71.12,
+          "probability": 0.6932370662689209
+        },
+        {
+          "word": " n",
+          "start": 71.12,
+          "end": 71.44,
+          "probability": 0.9899632334709167
+        },
+        {
+          "word": " minus",
+          "start": 71.44,
+          "end": 71.8,
+          "probability": 0.997794508934021
+        },
+        {
+          "word": " 1",
+          "start": 71.8,
+          "end": 71.98,
+          "probability": 0.9570691585540771
+        },
+        {
+          "word": " into",
+          "start": 71.98,
+          "end": 72.14,
+          "probability": 0.9894129633903503
+        },
+        {
+          "word": " d,",
+          "start": 72.14,
+          "end": 72.52,
+          "probability": 0.9895349144935608
+        },
+        {
+          "word": " इसका",
+          "start": 73.6,
+          "end": 74.04,
+          "probability": 0.8663599193096161
+        },
+        {
+          "word": " दाता",
+          "start": 74.04,
+          "end": 74.26,
+          "probability": 0.732108274102211
+        },
+        {
+          "word": " triangle,",
+          "start": 74.26,
+          "end": 74.52,
+          "probability": 0.7998673319816589
+        },
+        {
+          "word": " triangle",
+          "start": 74.74,
+          "end": 74.94,
+          "probability": 0.9381139874458313
+        },
+        {
+          "word": " में",
+          "start": 74.94,
+          "end": 75.18,
+          "probability": 0.9337096412976583
+        },
+        {
+          "word": " bpt,",
+          "start": 75.18,
+          "end": 75.56,
+          "probability": 0.9475533962249756
+        },
+        {
+          "word": " जिसमें",
+          "start": 76.04,
+          "end": 76.42,
+          "probability": 0.9797205754688808
+        },
+        {
+          "word": " side",
+          "start": 76.42,
+          "end": 76.64,
+          "probability": 0.9964684247970581
+        },
+        {
+          "word": " के",
+          "start": 76.64,
+          "end": 76.8,
+          "probability": 0.9927603006362915
+        },
+        {
+          "word": " ratio",
+          "start": 76.8,
+          "end": 77.02,
+          "probability": 0.9931851029396057
+        },
+        {
+          "word": " लेते",
+          "start": 77.02,
+          "end": 77.34,
+          "probability": 0.9852798819541931
+        },
+        {
+          "word": " हैं,",
+          "start": 77.34,
+          "end": 77.46,
+          "probability": 0.9806249141693115
+        },
+        {
+          "word": " अगर",
+          "start": 77.46,
+          "end": 77.62,
+          "probability": 0.9742056846618652
+        },
+        {
+          "word": " ये",
+          "start": 77.62,
+          "end": 77.74,
+          "probability": 0.8684757550557455
+        },
+        {
+          "word": " line",
+          "start": 77.74,
+          "end": 77.9,
+          "probability": 0.9700377583503723
+        },
+        {
+          "word": " parallel",
+          "start": 77.9,
+          "end": 78.12,
+          "probability": 0.9395591616630554
+        },
+        {
+          "word": " है,",
+          "start": 78.12,
+          "end": 78.38,
+          "probability": 0.9982300400733948
+        },
+        {
+          "word": " और",
+          "start": 78.62,
+          "end": 79.06,
+          "probability": 0.9950626095136007
+        },
+        {
+          "word": " similarity",
+          "start": 79.06,
+          "end": 79.42,
+          "probability": 0.98492032289505
+        },
+        {
+          "word": " के",
+          "start": 79.42,
+          "end": 79.62,
+          "probability": 0.7092079222202301
+        },
+        {
+          "word": " हमारे",
+          "start": 79.62,
+          "end": 80.32,
+          "probability": 0.9707739591598511
+        }
+      ],
+      "original_text": "और nature of roots आपकी ये है, तो ये आपको याद रखना है, इसकी बाद में बात करूँ, ap की, तो ap में दो formula है, एक nth trump का है, और एक sum of n trump का है, तो इसका भी आप screen sort ले ले, और nth trump from end का formula है, l minus n minus 1 into d, इसका दाता triangle, triangle में bpt, जिसमें side के ratio लेते हैं, अगर ये line parallel है, और similarity के हमारे",
+      "masked_text": "और __MASK_16__ of roots आपकी ये है__MASK_24__ तो ये आपको याद रखना है__MASK_25__ इसकी बाद में बात करूँ, ap की, तो ap में दो formula है, एक __MASK_22__ __MASK_18__ का है, और एक sum of n trump का है, तो इसका भी आप __MASK_17__ __MASK_19__ ले ले, और __MASK_23__ trump __MASK_20__ end का formula है, l minus n minus 1 into d, इसका दाता __MASK_14__, triangle में bpt, जिसमें side के ratio लेते हैं, अगर ये __MASK_21__ __MASK_15__ है, और similarity के हमारे",
+      "placeholder_map": {
+        "__MASK_14__": {
+          "original": "triangle",
+          "label": "TECH"
+        },
+        "__MASK_15__": {
+          "original": "parallel",
+          "label": "TECH"
+        },
+        "__MASK_16__": {
+          "original": "nature",
+          "label": "TECH"
+        },
+        "__MASK_17__": {
+          "original": "screen",
+          "label": "TECH"
+        },
+        "__MASK_18__": {
+          "original": "trump",
+          "label": "TECH"
+        },
+        "__MASK_19__": {
+          "original": "sort",
+          "label": "TECH"
+        },
+        "__MASK_20__": {
+          "original": "from",
+          "label": "TECH"
+        },
+        "__MASK_21__": {
+          "original": "line",
+          "label": "TECH"
+        },
+        "__MASK_22__": {
+          "original": "nth",
+          "label": "TECH"
+        },
+        "__MASK_23__": {
+          "original": "nth",
+          "label": "TECH"
+        },
+        "__MASK_24__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_25__": {
+          "original": ",",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 12
+    },
+    {
+      "id": 5,
+      "start": 80.32,
+      "end": 99.2,
+      "text": " criteria हैं, जिन से हम triangle को similar कर सकते हैं, अगर बात करें, coordinate geometry, तो ये हमारे distance formula, फिर आता है section formula, जो कि हमारे काम का है, और फिर आता है midpoint formula, तीन formula पर हमारे question बनते हैं, अगर हमें बात करूँ, trigonometry की, तो मैं basic पता होना है, sin, cost, n, cost, sec, और cod, ये सब क्या होते हैं, किसी triangle में, एक trigonometry",
+      "avg_logprob": -0.1290135712367002,
+      "no_speech_prob": 2.9873614693087802e-09,
+      "words": [
+        {
+          "word": " criteria",
+          "start": 80.32,
+          "end": 80.6,
+          "probability": 0.0005434631602838635
+        },
+        {
+          "word": " हैं,",
+          "start": 80.6,
+          "end": 80.88,
+          "probability": 0.5541698038578033
+        },
+        {
+          "word": " जिन",
+          "start": 80.96,
+          "end": 80.98,
+          "probability": 0.9402948766946793
+        },
+        {
+          "word": " से",
+          "start": 80.98,
+          "end": 81.12,
+          "probability": 0.7787687182426453
+        },
+        {
+          "word": " हम",
+          "start": 81.12,
+          "end": 81.18,
+          "probability": 0.972988486289978
+        },
+        {
+          "word": " triangle",
+          "start": 81.18,
+          "end": 81.4,
+          "probability": 0.7036353945732117
+        },
+        {
+          "word": " को",
+          "start": 81.4,
+          "end": 81.56,
+          "probability": 0.9793912768363953
+        },
+        {
+          "word": " similar",
+          "start": 81.56,
+          "end": 81.78,
+          "probability": 0.9501332640647888
+        },
+        {
+          "word": " कर",
+          "start": 81.78,
+          "end": 82.0,
+          "probability": 0.9970506727695465
+        },
+        {
+          "word": " सकते",
+          "start": 82.0,
+          "end": 82.28,
+          "probability": 0.9973317533731461
+        },
+        {
+          "word": " हैं,",
+          "start": 82.28,
+          "end": 82.38,
+          "probability": 0.9882591764132181
+        },
+        {
+          "word": " अगर",
+          "start": 82.6,
+          "end": 82.8,
+          "probability": 0.9900131464004517
+        },
+        {
+          "word": " बात",
+          "start": 82.8,
+          "end": 83.0,
+          "probability": 0.9707282036542892
+        },
+        {
+          "word": " करें,",
+          "start": 83.0,
+          "end": 83.22,
+          "probability": 0.9116171449422836
+        },
+        {
+          "word": " coordinate",
+          "start": 83.24,
+          "end": 83.4,
+          "probability": 0.050364699214696884
+        },
+        {
+          "word": " geometry,",
+          "start": 83.4,
+          "end": 83.76,
+          "probability": 0.8518151044845581
+        },
+        {
+          "word": " तो",
+          "start": 84.04,
+          "end": 84.12,
+          "probability": 0.9703300396601359
+        },
+        {
+          "word": " ये",
+          "start": 84.12,
+          "end": 84.26,
+          "probability": 0.637676735719045
+        },
+        {
+          "word": " हमारे",
+          "start": 84.26,
+          "end": 84.48,
+          "probability": 0.9255057573318481
+        },
+        {
+          "word": " distance",
+          "start": 84.48,
+          "end": 84.7,
+          "probability": 0.9822163581848145
+        },
+        {
+          "word": " formula,",
+          "start": 84.7,
+          "end": 85.16,
+          "probability": 0.9873557686805725
+        },
+        {
+          "word": " फिर",
+          "start": 85.6,
+          "end": 85.8,
+          "probability": 0.9885742366313934
+        },
+        {
+          "word": " आता",
+          "start": 85.8,
+          "end": 86.02,
+          "probability": 0.878779947757721
+        },
+        {
+          "word": " है",
+          "start": 86.02,
+          "end": 86.02,
+          "probability": 0.9850229918956757
+        },
+        {
+          "word": " section",
+          "start": 86.02,
+          "end": 86.26,
+          "probability": 0.54200279712677
+        },
+        {
+          "word": " formula,",
+          "start": 86.26,
+          "end": 86.74,
+          "probability": 0.9954420328140259
+        },
+        {
+          "word": " जो",
+          "start": 86.82,
+          "end": 86.92,
+          "probability": 0.9878886540730795
+        },
+        {
+          "word": " कि",
+          "start": 86.92,
+          "end": 87.02,
+          "probability": 0.9271147549152374
+        },
+        {
+          "word": " हमारे",
+          "start": 87.02,
+          "end": 87.22,
+          "probability": 0.9903041243553161
+        },
+        {
+          "word": " काम",
+          "start": 87.22,
+          "end": 87.44,
+          "probability": 0.9702264269193014
+        },
+        {
+          "word": " का",
+          "start": 87.44,
+          "end": 87.58,
+          "probability": 0.9663958251476288
+        },
+        {
+          "word": " है,",
+          "start": 87.58,
+          "end": 87.62,
+          "probability": 0.9907336235046387
+        },
+        {
+          "word": " और",
+          "start": 87.7,
+          "end": 87.84,
+          "probability": 0.9941387971242269
+        },
+        {
+          "word": " फिर",
+          "start": 87.84,
+          "end": 88.0,
+          "probability": 0.9641396403312683
+        },
+        {
+          "word": " आता",
+          "start": 88.0,
+          "end": 88.18,
+          "probability": 0.9289916902780533
+        },
+        {
+          "word": " है",
+          "start": 88.18,
+          "end": 88.24,
+          "probability": 0.9974021017551422
+        },
+        {
+          "word": " midpoint",
+          "start": 88.24,
+          "end": 88.62,
+          "probability": 0.8219977021217346
+        },
+        {
+          "word": " formula,",
+          "start": 88.62,
+          "end": 89.04,
+          "probability": 0.9978189468383789
+        },
+        {
+          "word": " तीन",
+          "start": 89.5,
+          "end": 89.84,
+          "probability": 0.9272461235523224
+        },
+        {
+          "word": " formula",
+          "start": 89.84,
+          "end": 90.14,
+          "probability": 0.8539736866950989
+        },
+        {
+          "word": " पर",
+          "start": 90.14,
+          "end": 90.3,
+          "probability": 0.8284011085828146
+        },
+        {
+          "word": " हमारे",
+          "start": 90.3,
+          "end": 90.48,
+          "probability": 0.958398413658142
+        },
+        {
+          "word": " question",
+          "start": 90.48,
+          "end": 90.66,
+          "probability": 0.5146885514259338
+        },
+        {
+          "word": " बनते",
+          "start": 90.66,
+          "end": 91.02,
+          "probability": 0.9565861940383911
+        },
+        {
+          "word": " हैं,",
+          "start": 91.02,
+          "end": 91.12,
+          "probability": 0.97959436972936
+        },
+        {
+          "word": " अगर",
+          "start": 91.18,
+          "end": 91.38,
+          "probability": 0.993606698513031
+        },
+        {
+          "word": " हमें",
+          "start": 91.38,
+          "end": 91.48,
+          "probability": 0.833607017993927
+        },
+        {
+          "word": " बात",
+          "start": 91.48,
+          "end": 91.64,
+          "probability": 0.8589804470539093
+        },
+        {
+          "word": " करूँ,",
+          "start": 91.64,
+          "end": 91.74,
+          "probability": 0.6030478763083617
+        },
+        {
+          "word": " trigonometry",
+          "start": 91.8,
+          "end": 92.24,
+          "probability": 0.9436239798863729
+        },
+        {
+          "word": " की,",
+          "start": 92.24,
+          "end": 92.48,
+          "probability": 0.9764732718467712
+        },
+        {
+          "word": " तो",
+          "start": 92.86,
+          "end": 92.96,
+          "probability": 0.9862062931060791
+        },
+        {
+          "word": " मैं",
+          "start": 92.96,
+          "end": 93.06,
+          "probability": 0.8193351229031881
+        },
+        {
+          "word": " basic",
+          "start": 93.06,
+          "end": 93.3,
+          "probability": 0.9761905074119568
+        },
+        {
+          "word": " पता",
+          "start": 93.3,
+          "end": 93.56,
+          "probability": 0.9788026213645935
+        },
+        {
+          "word": " होना",
+          "start": 93.56,
+          "end": 93.7,
+          "probability": 0.8839977532625198
+        },
+        {
+          "word": " है,",
+          "start": 93.7,
+          "end": 93.76,
+          "probability": 0.5823996365070343
+        },
+        {
+          "word": " sin,",
+          "start": 93.86,
+          "end": 94.1,
+          "probability": 0.39718934893608093
+        },
+        {
+          "word": " cost,",
+          "start": 94.28,
+          "end": 94.46,
+          "probability": 0.6614285111427307
+        },
+        {
+          "word": " n,",
+          "start": 94.56,
+          "end": 94.76,
+          "probability": 0.6213879585266113
+        },
+        {
+          "word": " cost,",
+          "start": 95.22,
+          "end": 95.44,
+          "probability": 0.15224531292915344
+        },
+        {
+          "word": " sec,",
+          "start": 95.64,
+          "end": 96.02,
+          "probability": 0.7917094230651855
+        },
+        {
+          "word": " और",
+          "start": 96.14,
+          "end": 96.26,
+          "probability": 0.8282326261202494
+        },
+        {
+          "word": " cod,",
+          "start": 96.26,
+          "end": 96.52,
+          "probability": 0.29686418175697327
+        },
+        {
+          "word": " ये",
+          "start": 96.58,
+          "end": 96.72,
+          "probability": 0.9775946736335754
+        },
+        {
+          "word": " सब",
+          "start": 96.72,
+          "end": 96.9,
+          "probability": 0.9937222401301066
+        },
+        {
+          "word": " क्या",
+          "start": 96.9,
+          "end": 97.1,
+          "probability": 0.9964259564876556
+        },
+        {
+          "word": " होते",
+          "start": 97.1,
+          "end": 97.32,
+          "probability": 0.9975179731845856
+        },
+        {
+          "word": " हैं,",
+          "start": 97.32,
+          "end": 97.4,
+          "probability": 0.990498960018158
+        },
+        {
+          "word": " किसी",
+          "start": 97.46,
+          "end": 97.62,
+          "probability": 0.9865044504404068
+        },
+        {
+          "word": " triangle",
+          "start": 97.62,
+          "end": 97.9,
+          "probability": 0.9899460673332214
+        },
+        {
+          "word": " में,",
+          "start": 97.9,
+          "end": 98.18,
+          "probability": 0.990496297677358
+        },
+        {
+          "word": " एक",
+          "start": 98.58,
+          "end": 98.76,
+          "probability": 0.9598617156346639
+        },
+        {
+          "word": " trigonometry",
+          "start": 98.76,
+          "end": 99.2,
+          "probability": 0.9742753307024637
+        }
+      ],
+      "original_text": "criteria हैं, जिन से हम triangle को similar कर सकते हैं, अगर बात करें, coordinate geometry, तो ये हमारे distance formula, फिर आता है section formula, जो कि हमारे काम का है, और फिर आता है midpoint formula, तीन formula पर हमारे question बनते हैं, अगर हमें बात करूँ, trigonometry की, तो मैं basic पता होना है, sin, cost, n, cost, sec, और cod, ये सब क्या होते हैं, किसी triangle में, एक trigonometry",
+      "masked_text": "__MASK_27__ हैं__MASK_32__ जिन से हम __MASK_28__ को similar कर सकते हैं__MASK_33__ अगर बात करें__MASK_34__ coordinate __MASK_29__, तो ये हमारे distance formula, फिर आता है section formula, जो कि हमारे काम का है__MASK_35__ __MASK_31__ फिर आता है midpoint formula, तीन formula पर हमारे question बनते हैं, अगर हमें बात करूँ, __MASK_26__ की, तो मैं basic पता होना है, sin, cost, n, cost, sec, और cod, ये सब क्या होते हैं, किसी __MASK_30__ में, एक trigonometry",
+      "placeholder_map": {
+        "__MASK_26__": {
+          "original": "trigonometry",
+          "label": "TECH"
+        },
+        "__MASK_27__": {
+          "original": "criteria",
+          "label": "TECH"
+        },
+        "__MASK_28__": {
+          "original": "triangle",
+          "label": "TECH"
+        },
+        "__MASK_29__": {
+          "original": "geometry",
+          "label": "TECH"
+        },
+        "__MASK_30__": {
+          "original": "triangle",
+          "label": "TECH"
+        },
+        "__MASK_31__": {
+          "original": "और",
+          "label": "TECH"
+        },
+        "__MASK_32__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_33__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_34__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_35__": {
+          "original": ",",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 10
+    },
+    {
+      "id": 6,
+      "start": 99.2,
+      "end": 125.84,
+      "text": " टेवल आपको याद होनी चाहिए, तीन identity आपको याद होनी चाहिए, और आपको ये ब्रेसी प्रोकल की प्रॉपटी जात होनी चाहिए, इसका भी आप screenshot ले लीजिए, अगर हम इसके बात करें, application of trigonometry, सिर्फ basic पता हो, angle of elevation क्या होता है, इधर अगर उपर से नीचे देखत",
+      "avg_logprob": -0.09595109869813705,
+      "no_speech_prob": 3.533692005674993e-09,
+      "words": [
+        {
+          "word": " टेवल",
+          "start": 99.2,
+          "end": 99.52,
+          "probability": 0.7398676599065462
+        },
+        {
+          "word": " आपको",
+          "start": 99.52,
+          "end": 99.72,
+          "probability": 0.9635638991991679
+        },
+        {
+          "word": " याद",
+          "start": 99.72,
+          "end": 99.9,
+          "probability": 0.958783996105194
+        },
+        {
+          "word": " होनी",
+          "start": 99.9,
+          "end": 100.06,
+          "probability": 0.9663796871900558
+        },
+        {
+          "word": " चाहिए,",
+          "start": 100.06,
+          "end": 100.26,
+          "probability": 0.9535899417740958
+        },
+        {
+          "word": " तीन",
+          "start": 100.36,
+          "end": 100.56,
+          "probability": 0.9438577592372894
+        },
+        {
+          "word": " identity",
+          "start": 100.56,
+          "end": 100.92,
+          "probability": 0.011641493998467922
+        },
+        {
+          "word": " आपको",
+          "start": 100.92,
+          "end": 101.2,
+          "probability": 0.993452231089274
+        },
+        {
+          "word": " याद",
+          "start": 101.2,
+          "end": 101.36,
+          "probability": 0.993847930431366
+        },
+        {
+          "word": " होनी",
+          "start": 101.36,
+          "end": 101.5,
+          "probability": 0.9943272322416306
+        },
+        {
+          "word": " चाहिए,",
+          "start": 101.5,
+          "end": 101.74,
+          "probability": 0.9960593751498631
+        },
+        {
+          "word": " और",
+          "start": 102.18,
+          "end": 102.3,
+          "probability": 0.9944981733957926
+        },
+        {
+          "word": " आपको",
+          "start": 102.3,
+          "end": 102.52,
+          "probability": 0.9967388610045115
+        },
+        {
+          "word": " ये",
+          "start": 102.52,
+          "end": 102.66,
+          "probability": 0.7187638382116953
+        },
+        {
+          "word": " ब्रेसी",
+          "start": 102.66,
+          "end": 103.06,
+          "probability": 0.8198466726711818
+        },
+        {
+          "word": " प्रोकल",
+          "start": 103.06,
+          "end": 103.28,
+          "probability": 0.8132194450923375
+        },
+        {
+          "word": " की",
+          "start": 103.28,
+          "end": 103.42,
+          "probability": 0.7569299340248108
+        },
+        {
+          "word": " प्रॉपटी",
+          "start": 103.42,
+          "end": 103.76,
+          "probability": 0.8631495291536505
+        },
+        {
+          "word": " जात",
+          "start": 103.76,
+          "end": 103.98,
+          "probability": 0.7317043542861938
+        },
+        {
+          "word": " होनी",
+          "start": 103.98,
+          "end": 104.1,
+          "probability": 0.9025685787200928
+        },
+        {
+          "word": " चाहिए,",
+          "start": 104.1,
+          "end": 104.18,
+          "probability": 0.9779463921274457
+        },
+        {
+          "word": " इसका",
+          "start": 104.18,
+          "end": 104.4,
+          "probability": 0.9719201683998108
+        },
+        {
+          "word": " भी",
+          "start": 104.4,
+          "end": 104.48,
+          "probability": 0.9915863076845804
+        },
+        {
+          "word": " आप",
+          "start": 104.48,
+          "end": 104.6,
+          "probability": 0.9665557742118835
+        },
+        {
+          "word": " screenshot",
+          "start": 104.6,
+          "end": 104.94,
+          "probability": 0.06368370354175568
+        },
+        {
+          "word": " ले",
+          "start": 104.94,
+          "end": 105.58,
+          "probability": 0.9921235044797262
+        },
+        {
+          "word": " लीजिए,",
+          "start": 105.58,
+          "end": 105.84,
+          "probability": 0.90186358243227
+        },
+        {
+          "word": " अगर",
+          "start": 106.12,
+          "end": 106.6,
+          "probability": 0.9921643376350403
+        },
+        {
+          "word": " हम",
+          "start": 106.6,
+          "end": 106.72,
+          "probability": 0.9348230063915253
+        },
+        {
+          "word": " इसके",
+          "start": 106.72,
+          "end": 106.88,
+          "probability": 0.9930158138275147
+        },
+        {
+          "word": " बात",
+          "start": 106.88,
+          "end": 107.02,
+          "probability": 0.7856732979416847
+        },
+        {
+          "word": " करें,",
+          "start": 107.02,
+          "end": 107.34,
+          "probability": 0.8821481168270111
+        },
+        {
+          "word": " application",
+          "start": 107.42,
+          "end": 107.66,
+          "probability": 0.17662018537521362
+        },
+        {
+          "word": " of",
+          "start": 107.66,
+          "end": 107.86,
+          "probability": 0.9106173515319824
+        },
+        {
+          "word": " trigonometry,",
+          "start": 107.86,
+          "end": 108.24,
+          "probability": 0.8482152024904887
+        },
+        {
+          "word": " सिर्फ",
+          "start": 108.38,
+          "end": 108.54,
+          "probability": 0.9544133941332499
+        },
+        {
+          "word": " basic",
+          "start": 108.54,
+          "end": 108.84,
+          "probability": 0.5924056768417358
+        },
+        {
+          "word": " पता",
+          "start": 108.84,
+          "end": 109.12,
+          "probability": 0.9912341684103012
+        },
+        {
+          "word": " हो,",
+          "start": 109.12,
+          "end": 109.18,
+          "probability": 0.8564587533473969
+        },
+        {
+          "word": " angle",
+          "start": 109.24,
+          "end": 109.42,
+          "probability": 0.9608321189880371
+        },
+        {
+          "word": " of",
+          "start": 109.42,
+          "end": 109.62,
+          "probability": 0.9954850673675537
+        },
+        {
+          "word": " elevation",
+          "start": 109.62,
+          "end": 109.92,
+          "probability": 0.9906862378120422
+        },
+        {
+          "word": " क्या",
+          "start": 109.92,
+          "end": 110.22,
+          "probability": 0.9505036324262619
+        },
+        {
+          "word": " होता",
+          "start": 110.22,
+          "end": 111.58,
+          "probability": 0.9959372729063034
+        },
+        {
+          "word": " है,",
+          "start": 111.58,
+          "end": 111.64,
+          "probability": 0.9897126257419586
+        },
+        {
+          "word": " इधर",
+          "start": 111.94,
+          "end": 112.16,
+          "probability": 0.7358936071395874
+        },
+        {
+          "word": " अगर",
+          "start": 112.16,
+          "end": 112.36,
+          "probability": 0.9854455947875976
+        },
+        {
+          "word": " उपर",
+          "start": 112.36,
+          "end": 113.02,
+          "probability": 0.8818145453929901
+        },
+        {
+          "word": " से",
+          "start": 113.02,
+          "end": 113.16,
+          "probability": 0.998410701751709
+        },
+        {
+          "word": " नीचे",
+          "start": 113.16,
+          "end": 124.54,
+          "probability": 0.9703981975714365
+        },
+        {
+          "word": " देखत",
+          "start": 124.54,
+          "end": 125.84,
+          "probability": 0.9920024673144022
+        }
+      ],
+      "original_text": "टेवल आपको याद होनी चाहिए, तीन identity आपको याद होनी चाहिए, और आपको ये ब्रेसी प्रोकल की प्रॉपटी जात होनी चाहिए, इसका भी आप screenshot ले लीजिए, अगर हम इसके बात करें, application of trigonometry, सिर्फ basic पता हो, angle of elevation क्या होता है, इधर अगर उपर से नीचे देखत",
+      "masked_text": "__MASK_40__ आपको याद होनी चाहिए, तीन __MASK_38__ आपको याद होनी चाहिए, और आपको ये ब्रेसी प्रोकल की प्रॉपटी जात होनी चाहिए, इसका भी आप screenshot ले लीजिए, अगर हम इसके बात करें, __MASK_37__ of __MASK_36__, सिर्फ basic पता हो, __MASK_39__ of elevation क्या होता है, इधर अगर उपर से नीचे देखत",
+      "placeholder_map": {
+        "__MASK_36__": {
+          "original": "trigonometry",
+          "label": "TECH"
+        },
+        "__MASK_37__": {
+          "original": "application",
+          "label": "TECH"
+        },
+        "__MASK_38__": {
+          "original": "identity",
+          "label": "TECH"
+        },
+        "__MASK_39__": {
+          "original": "angle",
+          "label": "TECH"
+        },
+        "__MASK_40__": {
+          "original": "टेवल",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 5
+    },
+    {
+      "id": 7,
+      "start": 125.84,
+      "end": 146.94,
+      "text": " प्रॉप ये दो concept हमारे काम के रहते हैं, फिराते हैं, area related to circle में, जिसमें circle का basic पता हो, circumference in area, area of sector का formula पता हो, और area of segment होता है, cod और arc की बीच का area, और ये निकलता है कैसे, area of sector में से area of triangle में, माइनस करना होता है, फिर सबसे important इतने सारे formula में एक साथ, बड़ी महनत से लिखें",
+      "avg_logprob": -0.11281582205284871,
+      "no_speech_prob": 3.2222218226962696e-09,
+      "words": [
+        {
+          "word": " प्रॉप",
+          "start": 125.84,
+          "end": 126.2,
+          "probability": 0.3764246511273086
+        },
+        {
+          "word": " ये",
+          "start": 126.2,
+          "end": 126.68,
+          "probability": 0.18897361556688944
+        },
+        {
+          "word": " दो",
+          "start": 126.68,
+          "end": 126.88,
+          "probability": 0.8894560734430949
+        },
+        {
+          "word": " concept",
+          "start": 126.88,
+          "end": 127.24,
+          "probability": 0.02294311486184597
+        },
+        {
+          "word": " हमारे",
+          "start": 127.24,
+          "end": 127.54,
+          "probability": 0.8580672562122345
+        },
+        {
+          "word": " काम",
+          "start": 127.54,
+          "end": 127.72,
+          "probability": 0.9757293264071146
+        },
+        {
+          "word": " के",
+          "start": 127.72,
+          "end": 127.86,
+          "probability": 0.8630139827728271
+        },
+        {
+          "word": " रहते",
+          "start": 127.86,
+          "end": 128.02,
+          "probability": 0.9940014243125915
+        },
+        {
+          "word": " हैं,",
+          "start": 128.02,
+          "end": 128.24,
+          "probability": 0.9530476530392965
+        },
+        {
+          "word": " फिराते",
+          "start": 128.26,
+          "end": 129.2,
+          "probability": 0.8339086174964905
+        },
+        {
+          "word": " हैं,",
+          "start": 129.2,
+          "end": 129.6,
+          "probability": 0.8687330285708109
+        },
+        {
+          "word": " area",
+          "start": 129.6,
+          "end": 129.6,
+          "probability": 0.5626059770584106
+        },
+        {
+          "word": " related",
+          "start": 129.6,
+          "end": 129.96,
+          "probability": 0.9493697285652161
+        },
+        {
+          "word": " to",
+          "start": 129.96,
+          "end": 130.12,
+          "probability": 0.989704430103302
+        },
+        {
+          "word": " circle",
+          "start": 130.12,
+          "end": 130.36,
+          "probability": 0.9863513112068176
+        },
+        {
+          "word": " में,",
+          "start": 130.36,
+          "end": 130.66,
+          "probability": 0.9823601047197977
+        },
+        {
+          "word": " जिसमें",
+          "start": 130.76,
+          "end": 131.12,
+          "probability": 0.9827787450381688
+        },
+        {
+          "word": " circle",
+          "start": 131.12,
+          "end": 131.38,
+          "probability": 0.8461921811103821
+        },
+        {
+          "word": " का",
+          "start": 131.38,
+          "end": 131.6,
+          "probability": 0.9953679144382477
+        },
+        {
+          "word": " basic",
+          "start": 131.6,
+          "end": 131.84,
+          "probability": 0.9829445481300354
+        },
+        {
+          "word": " पता",
+          "start": 131.84,
+          "end": 132.12,
+          "probability": 0.9662290513515472
+        },
+        {
+          "word": " हो,",
+          "start": 132.12,
+          "end": 132.2,
+          "probability": 0.55608269572258
+        },
+        {
+          "word": " circumference",
+          "start": 132.26,
+          "end": 132.78,
+          "probability": 0.9732453227043152
+        },
+        {
+          "word": " in",
+          "start": 132.78,
+          "end": 132.94,
+          "probability": 0.853802502155304
+        },
+        {
+          "word": " area,",
+          "start": 132.94,
+          "end": 133.2,
+          "probability": 0.9910489320755005
+        },
+        {
+          "word": " area",
+          "start": 133.42,
+          "end": 134.0,
+          "probability": 0.9972061514854431
+        },
+        {
+          "word": " of",
+          "start": 134.0,
+          "end": 134.18,
+          "probability": 0.9880238175392151
+        },
+        {
+          "word": " sector",
+          "start": 134.18,
+          "end": 134.38,
+          "probability": 0.9870185852050781
+        },
+        {
+          "word": " का",
+          "start": 134.38,
+          "end": 134.56,
+          "probability": 0.9906044006347656
+        },
+        {
+          "word": " formula",
+          "start": 134.56,
+          "end": 134.82,
+          "probability": 0.9199627637863159
+        },
+        {
+          "word": " पता",
+          "start": 134.82,
+          "end": 135.18,
+          "probability": 0.9971026629209518
+        },
+        {
+          "word": " हो,",
+          "start": 135.18,
+          "end": 135.26,
+          "probability": 0.8526233732700348
+        },
+        {
+          "word": " और",
+          "start": 135.54,
+          "end": 135.7,
+          "probability": 0.9340684215227762
+        },
+        {
+          "word": " area",
+          "start": 135.7,
+          "end": 136.0,
+          "probability": 0.9981939196586609
+        },
+        {
+          "word": " of",
+          "start": 136.0,
+          "end": 136.16,
+          "probability": 0.9943645000457764
+        },
+        {
+          "word": " segment",
+          "start": 136.16,
+          "end": 136.38,
+          "probability": 0.9935791492462158
+        },
+        {
+          "word": " होता",
+          "start": 136.38,
+          "end": 136.78,
+          "probability": 0.9893920868635178
+        },
+        {
+          "word": " है,",
+          "start": 136.78,
+          "end": 136.8,
+          "probability": 0.9978712499141693
+        },
+        {
+          "word": " cod",
+          "start": 136.88,
+          "end": 137.08,
+          "probability": 0.18052507936954498
+        },
+        {
+          "word": " और",
+          "start": 137.08,
+          "end": 137.32,
+          "probability": 0.9594074090321859
+        },
+        {
+          "word": " arc",
+          "start": 137.32,
+          "end": 137.62,
+          "probability": 0.22699491679668427
+        },
+        {
+          "word": " की",
+          "start": 137.62,
+          "end": 137.74,
+          "probability": 0.7554095983505249
+        },
+        {
+          "word": " बीच",
+          "start": 137.74,
+          "end": 137.94,
+          "probability": 0.9797763347625732
+        },
+        {
+          "word": " का",
+          "start": 137.94,
+          "end": 138.1,
+          "probability": 0.9839352667331696
+        },
+        {
+          "word": " area,",
+          "start": 138.1,
+          "end": 138.24,
+          "probability": 0.9904594421386719
+        },
+        {
+          "word": " और",
+          "start": 138.6,
+          "end": 138.7,
+          "probability": 0.9956010182698568
+        },
+        {
+          "word": " ये",
+          "start": 138.7,
+          "end": 138.8,
+          "probability": 0.9687254428863525
+        },
+        {
+          "word": " निकलता",
+          "start": 138.8,
+          "end": 139.16,
+          "probability": 0.9920403957366943
+        },
+        {
+          "word": " है",
+          "start": 139.16,
+          "end": 139.2,
+          "probability": 0.9887762367725372
+        },
+        {
+          "word": " कैसे,",
+          "start": 139.2,
+          "end": 139.44,
+          "probability": 0.8805931806564331
+        },
+        {
+          "word": " area",
+          "start": 139.56,
+          "end": 140.08,
+          "probability": 0.9985381364822388
+        },
+        {
+          "word": " of",
+          "start": 140.08,
+          "end": 140.28,
+          "probability": 0.9984548091888428
+        },
+        {
+          "word": " sector",
+          "start": 140.28,
+          "end": 140.5,
+          "probability": 0.9964979887008667
+        },
+        {
+          "word": " में",
+          "start": 140.5,
+          "end": 140.74,
+          "probability": 0.9225295384724935
+        },
+        {
+          "word": " से",
+          "start": 140.74,
+          "end": 140.88,
+          "probability": 0.7274905890226364
+        },
+        {
+          "word": " area",
+          "start": 140.88,
+          "end": 141.04,
+          "probability": 0.9830780625343323
+        },
+        {
+          "word": " of",
+          "start": 141.04,
+          "end": 141.2,
+          "probability": 0.9895780086517334
+        },
+        {
+          "word": " triangle",
+          "start": 141.2,
+          "end": 141.38,
+          "probability": 0.9972429275512695
+        },
+        {
+          "word": " में,",
+          "start": 141.38,
+          "end": 142.04,
+          "probability": 0.9822953939437866
+        },
+        {
+          "word": " माइनस",
+          "start": 142.04,
+          "end": 142.46,
+          "probability": 0.8270606348911921
+        },
+        {
+          "word": " करना",
+          "start": 142.46,
+          "end": 142.74,
+          "probability": 0.9949280917644501
+        },
+        {
+          "word": " होता",
+          "start": 142.74,
+          "end": 142.96,
+          "probability": 0.9984172135591507
+        },
+        {
+          "word": " है,",
+          "start": 142.96,
+          "end": 143.04,
+          "probability": 0.9965152740478516
+        },
+        {
+          "word": " फिर",
+          "start": 143.44,
+          "end": 143.66,
+          "probability": 0.9945188909769058
+        },
+        {
+          "word": " सबसे",
+          "start": 143.66,
+          "end": 144.06,
+          "probability": 0.9559784054756164
+        },
+        {
+          "word": " important",
+          "start": 144.06,
+          "end": 144.36,
+          "probability": 0.9909408688545227
+        },
+        {
+          "word": " इतने",
+          "start": 144.36,
+          "end": 144.58,
+          "probability": 0.7649734377861023
+        },
+        {
+          "word": " सारे",
+          "start": 144.58,
+          "end": 144.88,
+          "probability": 0.9731939435005188
+        },
+        {
+          "word": " formula",
+          "start": 144.88,
+          "end": 145.14,
+          "probability": 0.8170247673988342
+        },
+        {
+          "word": " में",
+          "start": 145.14,
+          "end": 145.3,
+          "probability": 0.8495254317919413
+        },
+        {
+          "word": " एक",
+          "start": 145.3,
+          "end": 145.48,
+          "probability": 0.8923107981681824
+        },
+        {
+          "word": " साथ,",
+          "start": 145.48,
+          "end": 145.74,
+          "probability": 0.9885025322437286
+        },
+        {
+          "word": " बड़ी",
+          "start": 146.06,
+          "end": 146.28,
+          "probability": 0.9899787306785583
+        },
+        {
+          "word": " महनत",
+          "start": 146.28,
+          "end": 146.62,
+          "probability": 0.817174106836319
+        },
+        {
+          "word": " से",
+          "start": 146.62,
+          "end": 146.72,
+          "probability": 0.9956581890583038
+        },
+        {
+          "word": " लिखें",
+          "start": 146.72,
+          "end": 146.94,
+          "probability": 0.9679076245852879
+        }
+      ],
+      "original_text": "प्रॉप ये दो concept हमारे काम के रहते हैं, फिराते हैं, area related to circle में, जिसमें circle का basic पता हो, circumference in area, area of sector का formula पता हो, और area of segment होता है, cod और arc की बीच का area, और ये निकलता है कैसे, area of sector में से area of triangle में, माइनस करना होता है, फिर सबसे important इतने सारे formula में एक साथ, बड़ी महनत से लिखें",
+      "masked_text": "प्रॉप ये __MASK_49__ __MASK_43__ हमारे काम के रहते हैं__MASK_50__ फिराते हैं, __MASK_46__ __MASK_44__ to circle में, जिसमें circle का basic पता हो, __MASK_41__ in __MASK_47__, area of sector का formula पता हो, और area of __MASK_45__ होता है, __MASK_48__ और arc की बीच का area, और ये निकलता है कैसे, area of sector में से area of __MASK_42__ में, माइनस करना होता है, फिर सबसे important इतने सारे formula में एक साथ, बड़ी महनत से लिखें",
+      "placeholder_map": {
+        "__MASK_41__": {
+          "original": "circumference",
+          "label": "TECH"
+        },
+        "__MASK_42__": {
+          "original": "triangle",
+          "label": "TECH"
+        },
+        "__MASK_43__": {
+          "original": "concept",
+          "label": "TECH"
+        },
+        "__MASK_44__": {
+          "original": "related",
+          "label": "TECH"
+        },
+        "__MASK_45__": {
+          "original": "segment",
+          "label": "TECH"
+        },
+        "__MASK_46__": {
+          "original": "area",
+          "label": "TECH"
+        },
+        "__MASK_47__": {
+          "original": "area",
+          "label": "TECH"
+        },
+        "__MASK_48__": {
+          "original": "cod",
+          "label": "TECH"
+        },
+        "__MASK_49__": {
+          "original": "दो",
+          "label": "TECH"
+        },
+        "__MASK_50__": {
+          "original": ",",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 10
+    },
+    {
+      "id": 8,
+      "start": 146.94,
+      "end": 176.44,
+      "text": " हैं, आपके लिए जिससे की आप सारे formula एक साथ आपको मिल जाएं, और आप revise कर पाएं, फटा फटा इसको screenshot ले लो, मैंने बहुत महनत से इसको लिखा है, cube, cubite, cylinder, cone, hemisphere, sphere, in सबके curve, surface area, surface area and volume आपको पता होना चाहिए, यहां से आप note कर लीजे, अगर मैं बात करो next statistics, तो इस",
+      "avg_logprob": -0.10219551763192421,
+      "no_speech_prob": 2.192083403684819e-09,
+      "words": [
+        {
+          "word": " हैं,",
+          "start": 146.94,
+          "end": 146.94,
+          "probability": 0.6296200255552927
+        },
+        {
+          "word": " आपके",
+          "start": 147.02,
+          "end": 147.2,
+          "probability": 0.9137175381183624
+        },
+        {
+          "word": " लिए",
+          "start": 147.2,
+          "end": 147.3,
+          "probability": 0.9858872652053833
+        },
+        {
+          "word": " जिससे",
+          "start": 147.3,
+          "end": 147.56,
+          "probability": 0.8667443295319875
+        },
+        {
+          "word": " की",
+          "start": 147.56,
+          "end": 147.7,
+          "probability": 0.7072733342647552
+        },
+        {
+          "word": " आप",
+          "start": 147.7,
+          "end": 147.96,
+          "probability": 0.9488460570573807
+        },
+        {
+          "word": " सारे",
+          "start": 147.96,
+          "end": 148.66,
+          "probability": 0.9676850736141205
+        },
+        {
+          "word": " formula",
+          "start": 148.66,
+          "end": 149.02,
+          "probability": 0.10089277476072311
+        },
+        {
+          "word": " एक",
+          "start": 149.02,
+          "end": 149.2,
+          "probability": 0.8987336158752441
+        },
+        {
+          "word": " साथ",
+          "start": 149.2,
+          "end": 149.38,
+          "probability": 0.9773466438055038
+        },
+        {
+          "word": " आपको",
+          "start": 149.38,
+          "end": 149.62,
+          "probability": 0.9780761400858561
+        },
+        {
+          "word": " मिल",
+          "start": 149.62,
+          "end": 149.78,
+          "probability": 0.988339900970459
+        },
+        {
+          "word": " जाएं,",
+          "start": 149.78,
+          "end": 150.02,
+          "probability": 0.9347784022490183
+        },
+        {
+          "word": " और",
+          "start": 150.3,
+          "end": 150.44,
+          "probability": 0.993190586566925
+        },
+        {
+          "word": " आप",
+          "start": 150.44,
+          "end": 150.56,
+          "probability": 0.9889581650495529
+        },
+        {
+          "word": " revise",
+          "start": 150.56,
+          "end": 150.8,
+          "probability": 0.6500928997993469
+        },
+        {
+          "word": " कर",
+          "start": 150.8,
+          "end": 151.02,
+          "probability": 0.9883053302764893
+        },
+        {
+          "word": " पाएं,",
+          "start": 151.02,
+          "end": 151.24,
+          "probability": 0.7894959648450216
+        },
+        {
+          "word": " फटा",
+          "start": 151.26,
+          "end": 151.46,
+          "probability": 0.6950195133686066
+        },
+        {
+          "word": " फटा",
+          "start": 151.46,
+          "end": 151.66,
+          "probability": 0.7657643258571625
+        },
+        {
+          "word": " इसको",
+          "start": 151.66,
+          "end": 151.82,
+          "probability": 0.89663325548172
+        },
+        {
+          "word": " screenshot",
+          "start": 151.82,
+          "end": 152.34,
+          "probability": 0.48054802417755127
+        },
+        {
+          "word": " ले",
+          "start": 152.34,
+          "end": 152.68,
+          "probability": 0.9801180164019266
+        },
+        {
+          "word": " लो,",
+          "start": 152.68,
+          "end": 152.76,
+          "probability": 0.9386212031046549
+        },
+        {
+          "word": " मैंने",
+          "start": 153.18,
+          "end": 153.38,
+          "probability": 0.9600760221481324
+        },
+        {
+          "word": " बहुत",
+          "start": 153.38,
+          "end": 153.56,
+          "probability": 0.9738086561361948
+        },
+        {
+          "word": " महनत",
+          "start": 153.56,
+          "end": 153.88,
+          "probability": 0.7836900278925896
+        },
+        {
+          "word": " से",
+          "start": 153.88,
+          "end": 153.98,
+          "probability": 0.95119509100914
+        },
+        {
+          "word": " इसको",
+          "start": 153.98,
+          "end": 154.08,
+          "probability": 0.9336608052253723
+        },
+        {
+          "word": " लिखा",
+          "start": 154.08,
+          "end": 154.36,
+          "probability": 0.9836350778738657
+        },
+        {
+          "word": " है,",
+          "start": 154.36,
+          "end": 154.44,
+          "probability": 0.9289543926715851
+        },
+        {
+          "word": " cube,",
+          "start": 154.82,
+          "end": 155.12,
+          "probability": 0.6235555410385132
+        },
+        {
+          "word": " cubite,",
+          "start": 155.24,
+          "end": 155.66,
+          "probability": 0.3410673141479492
+        },
+        {
+          "word": " cylinder,",
+          "start": 155.8,
+          "end": 155.98,
+          "probability": 0.6936251521110535
+        },
+        {
+          "word": " cone,",
+          "start": 156.62,
+          "end": 156.9,
+          "probability": 0.993098795413971
+        },
+        {
+          "word": " hemisphere,",
+          "start": 157.08,
+          "end": 157.54,
+          "probability": 0.9085395932197571
+        },
+        {
+          "word": " sphere,",
+          "start": 157.74,
+          "end": 157.96,
+          "probability": 0.9237217307090759
+        },
+        {
+          "word": " in",
+          "start": 158.32,
+          "end": 158.5,
+          "probability": 0.09204156696796417
+        },
+        {
+          "word": " सबके",
+          "start": 158.5,
+          "end": 158.98,
+          "probability": 0.8032420217990875
+        },
+        {
+          "word": " curve,",
+          "start": 158.98,
+          "end": 159.24,
+          "probability": 0.8865370750427246
+        },
+        {
+          "word": " surface",
+          "start": 159.32,
+          "end": 159.66,
+          "probability": 0.975407600402832
+        },
+        {
+          "word": " area,",
+          "start": 159.66,
+          "end": 159.8,
+          "probability": 0.3284760117530823
+        },
+        {
+          "word": " surface",
+          "start": 159.9,
+          "end": 160.12,
+          "probability": 0.9899051785469055
+        },
+        {
+          "word": " area",
+          "start": 160.12,
+          "end": 160.42,
+          "probability": 0.9981174468994141
+        },
+        {
+          "word": " and",
+          "start": 160.42,
+          "end": 160.62,
+          "probability": 0.6611786484718323
+        },
+        {
+          "word": " volume",
+          "start": 160.62,
+          "end": 160.86,
+          "probability": 0.989986002445221
+        },
+        {
+          "word": " आपको",
+          "start": 160.86,
+          "end": 161.26,
+          "probability": 0.9831209778785706
+        },
+        {
+          "word": " पता",
+          "start": 161.26,
+          "end": 161.84,
+          "probability": 0.9971581548452377
+        },
+        {
+          "word": " होना",
+          "start": 161.84,
+          "end": 162.06,
+          "probability": 0.9937815517187119
+        },
+        {
+          "word": " चाहिए,",
+          "start": 162.06,
+          "end": 162.24,
+          "probability": 0.9833095499447414
+        },
+        {
+          "word": " यहां",
+          "start": 162.3,
+          "end": 162.56,
+          "probability": 0.9031656384468079
+        },
+        {
+          "word": " से",
+          "start": 162.56,
+          "end": 162.66,
+          "probability": 0.9920782148838043
+        },
+        {
+          "word": " आप",
+          "start": 162.66,
+          "end": 162.84,
+          "probability": 0.9951873272657394
+        },
+        {
+          "word": " note",
+          "start": 162.84,
+          "end": 163.38,
+          "probability": 0.9602855443954468
+        },
+        {
+          "word": " कर",
+          "start": 163.38,
+          "end": 163.56,
+          "probability": 0.9977479577064514
+        },
+        {
+          "word": " लीजे,",
+          "start": 163.56,
+          "end": 163.82,
+          "probability": 0.8362633287906647
+        },
+        {
+          "word": " अगर",
+          "start": 163.98,
+          "end": 164.6,
+          "probability": 0.9934713125228882
+        },
+        {
+          "word": " मैं",
+          "start": 164.6,
+          "end": 164.76,
+          "probability": 0.9725918571154276
+        },
+        {
+          "word": " बात",
+          "start": 164.76,
+          "end": 164.92,
+          "probability": 0.9650354981422424
+        },
+        {
+          "word": " करो",
+          "start": 164.92,
+          "end": 165.02,
+          "probability": 0.7286947816610336
+        },
+        {
+          "word": " next",
+          "start": 165.02,
+          "end": 165.24,
+          "probability": 0.9667378067970276
+        },
+        {
+          "word": " statistics,",
+          "start": 165.24,
+          "end": 165.72,
+          "probability": 0.9470767378807068
+        },
+        {
+          "word": " तो",
+          "start": 166.06,
+          "end": 176.0,
+          "probability": 0.9677775303522745
+        },
+        {
+          "word": " इस",
+          "start": 176.0,
+          "end": 176.44,
+          "probability": 0.9611172477404276
+        }
+      ],
+      "original_text": "हैं, आपके लिए जिससे की आप सारे formula एक साथ आपको मिल जाएं, और आप revise कर पाएं, फटा फटा इसको screenshot ले लो, मैंने बहुत महनत से इसको लिखा है, cube, cubite, cylinder, cone, hemisphere, sphere, in सबके curve, surface area, surface area and volume आपको पता होना चाहिए, यहां से आप note कर लीजे, अगर मैं बात करो next statistics, तो इस",
+      "masked_text": "हैं__MASK_55__ आपके लिए जिससे की आप सारे __MASK_52__ एक साथ आपको मिल जाएं__MASK_56__ और आप revise कर पाएं__MASK_57__ फटा फटा इसको screenshot __MASK_54__ लो__MASK_58__ मैंने बहुत महनत से इसको लिखा है__MASK_59__ cube, cubite, __MASK_51__, __MASK_53__, hemisphere, sphere, in सबके curve, surface area, surface area and volume आपको पता होना चाहिए, यहां से आप note कर लीजे, अगर मैं बात करो next statistics, तो इस",
+      "placeholder_map": {
+        "__MASK_51__": {
+          "original": "cylinder",
+          "label": "TECH"
+        },
+        "__MASK_52__": {
+          "original": "formula",
+          "label": "TECH"
+        },
+        "__MASK_53__": {
+          "original": "cone",
+          "label": "TECH"
+        },
+        "__MASK_54__": {
+          "original": "ले",
+          "label": "TECH"
+        },
+        "__MASK_55__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_56__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_57__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_58__": {
+          "original": ",",
+          "label": "TECH"
+        },
+        "__MASK_59__": {
+          "original": ",",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 9
+    },
+    {
+      "id": 9,
+      "start": 176.44,
+      "end": 198.48,
+      "text": " सकते हो, और last हमारा chapter आता है probability, probability की यह मैं बात करूँ तो यहां पर हमारा basic formula है, probability का number of favorable outcome upon total outcome, जिसमें point की बात करो तो तीन coin पर कोशन बन सकता है, तो one coin का outcome यह है, two coin का यह है, three coin का यह है, dice की बात करें, तो एक die का सकता है, यह दो dice का सकता है, ठीक है, तो दो dice की outcome 36 होते है",
+      "avg_logprob": -0.09327022938450355,
+      "no_speech_prob": 3.206919396703256e-09,
+      "words": [
+        {
+          "word": " सकते",
+          "start": 176.44,
+          "end": 176.74,
+          "probability": 0.9534055292606354
+        },
+        {
+          "word": " हो,",
+          "start": 176.74,
+          "end": 176.86,
+          "probability": 0.9806551337242126
+        },
+        {
+          "word": " और",
+          "start": 177.22,
+          "end": 177.38,
+          "probability": 0.7391355931758881
+        },
+        {
+          "word": " last",
+          "start": 177.38,
+          "end": 177.64,
+          "probability": 0.08222594857215881
+        },
+        {
+          "word": " हमारा",
+          "start": 177.64,
+          "end": 177.92,
+          "probability": 0.9926745057106018
+        },
+        {
+          "word": " chapter",
+          "start": 177.92,
+          "end": 178.14,
+          "probability": 0.3746487498283386
+        },
+        {
+          "word": " आता",
+          "start": 178.14,
+          "end": 178.32,
+          "probability": 0.9412190318107605
+        },
+        {
+          "word": " है",
+          "start": 178.32,
+          "end": 178.4,
+          "probability": 0.9948444664478302
+        },
+        {
+          "word": " probability,",
+          "start": 178.4,
+          "end": 178.88,
+          "probability": 0.9431646466255188
+        },
+        {
+          "word": " probability",
+          "start": 179.2,
+          "end": 179.78,
+          "probability": 0.9762606024742126
+        },
+        {
+          "word": " की",
+          "start": 179.78,
+          "end": 180.2,
+          "probability": 0.8202610611915588
+        },
+        {
+          "word": " यह",
+          "start": 180.2,
+          "end": 180.28,
+          "probability": 0.7020357052485148
+        },
+        {
+          "word": " मैं",
+          "start": 180.28,
+          "end": 180.38,
+          "probability": 0.8561960856119791
+        },
+        {
+          "word": " बात",
+          "start": 180.38,
+          "end": 180.62,
+          "probability": 0.9889672100543976
+        },
+        {
+          "word": " करूँ",
+          "start": 180.62,
+          "end": 180.8,
+          "probability": 0.830768013993899
+        },
+        {
+          "word": " तो",
+          "start": 180.8,
+          "end": 180.86,
+          "probability": 0.8225073218345642
+        },
+        {
+          "word": " यहां",
+          "start": 180.86,
+          "end": 181.06,
+          "probability": 0.7793652474880218
+        },
+        {
+          "word": " पर",
+          "start": 181.06,
+          "end": 181.1,
+          "probability": 0.8794352610905966
+        },
+        {
+          "word": " हमारा",
+          "start": 181.1,
+          "end": 181.54,
+          "probability": 0.9251893997192383
+        },
+        {
+          "word": " basic",
+          "start": 181.54,
+          "end": 181.84,
+          "probability": 0.977803111076355
+        },
+        {
+          "word": " formula",
+          "start": 181.84,
+          "end": 182.24,
+          "probability": 0.9855831861495972
+        },
+        {
+          "word": " है,",
+          "start": 182.24,
+          "end": 182.76,
+          "probability": 0.9877977967262268
+        },
+        {
+          "word": " probability",
+          "start": 182.76,
+          "end": 183.08,
+          "probability": 0.9938619136810303
+        },
+        {
+          "word": " का",
+          "start": 183.08,
+          "end": 183.44,
+          "probability": 0.9420584142208099
+        },
+        {
+          "word": " number",
+          "start": 183.44,
+          "end": 183.68,
+          "probability": 0.9145484566688538
+        },
+        {
+          "word": " of",
+          "start": 183.68,
+          "end": 183.9,
+          "probability": 0.9883884787559509
+        },
+        {
+          "word": " favorable",
+          "start": 183.9,
+          "end": 184.2,
+          "probability": 0.9510461091995239
+        },
+        {
+          "word": " outcome",
+          "start": 184.2,
+          "end": 184.64,
+          "probability": 0.9885891675949097
+        },
+        {
+          "word": " upon",
+          "start": 184.64,
+          "end": 184.84,
+          "probability": 0.9885116815567017
+        },
+        {
+          "word": " total",
+          "start": 184.84,
+          "end": 185.18,
+          "probability": 0.9932157397270203
+        },
+        {
+          "word": " outcome,",
+          "start": 185.18,
+          "end": 185.54,
+          "probability": 0.9969717264175415
+        },
+        {
+          "word": " जिसमें",
+          "start": 186.0,
+          "end": 186.48,
+          "probability": 0.9807511397770473
+        },
+        {
+          "word": " point",
+          "start": 186.48,
+          "end": 186.76,
+          "probability": 0.9741679430007935
+        },
+        {
+          "word": " की",
+          "start": 186.76,
+          "end": 186.94,
+          "probability": 0.9972438216209412
+        },
+        {
+          "word": " बात",
+          "start": 186.94,
+          "end": 187.14,
+          "probability": 0.9976331442594528
+        },
+        {
+          "word": " करो",
+          "start": 187.14,
+          "end": 187.26,
+          "probability": 0.8879388968149821
+        },
+        {
+          "word": " तो",
+          "start": 187.26,
+          "end": 187.42,
+          "probability": 0.7646408975124359
+        },
+        {
+          "word": " तीन",
+          "start": 187.42,
+          "end": 187.72,
+          "probability": 0.8468764275312424
+        },
+        {
+          "word": " coin",
+          "start": 187.72,
+          "end": 187.96,
+          "probability": 0.8426591753959656
+        },
+        {
+          "word": " पर",
+          "start": 187.96,
+          "end": 188.1,
+          "probability": 0.9045799970626831
+        },
+        {
+          "word": " कोशन",
+          "start": 188.1,
+          "end": 188.3,
+          "probability": 0.6762686729431152
+        },
+        {
+          "word": " बन",
+          "start": 188.3,
+          "end": 188.5,
+          "probability": 0.960470974445343
+        },
+        {
+          "word": " सकता",
+          "start": 188.5,
+          "end": 188.82,
+          "probability": 0.9817418456077576
+        },
+        {
+          "word": " है,",
+          "start": 188.82,
+          "end": 188.84,
+          "probability": 0.991342306137085
+        },
+        {
+          "word": " तो",
+          "start": 188.92,
+          "end": 188.98,
+          "probability": 0.9838876922925314
+        },
+        {
+          "word": " one",
+          "start": 188.98,
+          "end": 189.14,
+          "probability": 0.7085006237030029
+        },
+        {
+          "word": " coin",
+          "start": 189.14,
+          "end": 189.36,
+          "probability": 0.9944678544998169
+        },
+        {
+          "word": " का",
+          "start": 189.36,
+          "end": 189.56,
+          "probability": 0.9074658751487732
+        },
+        {
+          "word": " outcome",
+          "start": 189.56,
+          "end": 189.7,
+          "probability": 0.9768195748329163
+        },
+        {
+          "word": " यह",
+          "start": 189.7,
+          "end": 190.0,
+          "probability": 0.9116424322128296
+        },
+        {
+          "word": " है,",
+          "start": 190.0,
+          "end": 190.14,
+          "probability": 0.9468578398227692
+        },
+        {
+          "word": " two",
+          "start": 190.18,
+          "end": 190.26,
+          "probability": 0.9536793231964111
+        },
+        {
+          "word": " coin",
+          "start": 190.26,
+          "end": 190.48,
+          "probability": 0.9962756633758545
+        },
+        {
+          "word": " का",
+          "start": 190.48,
+          "end": 190.64,
+          "probability": 0.9895805418491364
+        },
+        {
+          "word": " यह",
+          "start": 190.64,
+          "end": 190.82,
+          "probability": 0.9779951969782511
+        },
+        {
+          "word": " है,",
+          "start": 190.82,
+          "end": 190.92,
+          "probability": 0.9593332707881927
+        },
+        {
+          "word": " three",
+          "start": 191.0,
+          "end": 191.08,
+          "probability": 0.6067057251930237
+        },
+        {
+          "word": " coin",
+          "start": 191.08,
+          "end": 191.36,
+          "probability": 0.9987916350364685
+        },
+        {
+          "word": " का",
+          "start": 191.36,
+          "end": 191.54,
+          "probability": 0.9961466789245605
+        },
+        {
+          "word": " यह",
+          "start": 191.54,
+          "end": 191.76,
+          "probability": 0.9882335066795349
+        },
+        {
+          "word": " है,",
+          "start": 191.76,
+          "end": 192.28,
+          "probability": 0.9649040699005127
+        },
+        {
+          "word": " dice",
+          "start": 192.36,
+          "end": 192.58,
+          "probability": 0.7523601651191711
+        },
+        {
+          "word": " की",
+          "start": 192.58,
+          "end": 192.82,
+          "probability": 0.9989590346813202
+        },
+        {
+          "word": " बात",
+          "start": 192.82,
+          "end": 193.0,
+          "probability": 0.9989845752716064
+        },
+        {
+          "word": " करें,",
+          "start": 193.0,
+          "end": 193.18,
+          "probability": 0.995032548904419
+        },
+        {
+          "word": " तो",
+          "start": 193.24,
+          "end": 193.36,
+          "probability": 0.9967485864957174
+        },
+        {
+          "word": " एक",
+          "start": 193.36,
+          "end": 193.58,
+          "probability": 0.975228488445282
+        },
+        {
+          "word": " die",
+          "start": 193.58,
+          "end": 193.68,
+          "probability": 0.8877847790718079
+        },
+        {
+          "word": " का",
+          "start": 193.68,
+          "end": 193.9,
+          "probability": 0.9154350459575653
+        },
+        {
+          "word": " सकता",
+          "start": 193.9,
+          "end": 194.24,
+          "probability": 0.9675825089216232
+        },
+        {
+          "word": " है,",
+          "start": 194.24,
+          "end": 194.36,
+          "probability": 0.9985984265804291
+        },
+        {
+          "word": " यह",
+          "start": 194.76,
+          "end": 194.92,
+          "probability": 0.9858273267745972
+        },
+        {
+          "word": " दो",
+          "start": 194.92,
+          "end": 195.1,
+          "probability": 0.8933733304341634
+        },
+        {
+          "word": " dice",
+          "start": 195.1,
+          "end": 195.32,
+          "probability": 0.9437233805656433
+        },
+        {
+          "word": " का",
+          "start": 195.32,
+          "end": 195.5,
+          "probability": 0.9984799027442932
+        },
+        {
+          "word": " सकता",
+          "start": 195.5,
+          "end": 195.86,
+          "probability": 0.9970186948776245
+        },
+        {
+          "word": " है,",
+          "start": 195.86,
+          "end": 195.98,
+          "probability": 0.9974300563335419
+        },
+        {
+          "word": " ठीक",
+          "start": 196.1,
+          "end": 196.26,
+          "probability": 0.9890986979007721
+        },
+        {
+          "word": " है,",
+          "start": 196.26,
+          "end": 196.32,
+          "probability": 0.8898495435714722
+        },
+        {
+          "word": " तो",
+          "start": 196.74,
+          "end": 196.9,
+          "probability": 0.9969622294108073
+        },
+        {
+          "word": " दो",
+          "start": 196.9,
+          "end": 197.1,
+          "probability": 0.9072915514310201
+        },
+        {
+          "word": " dice",
+          "start": 197.1,
+          "end": 197.18,
+          "probability": 0.9438825249671936
+        },
+        {
+          "word": " की",
+          "start": 197.18,
+          "end": 197.4,
+          "probability": 0.9443241059780121
+        },
+        {
+          "word": " outcome",
+          "start": 197.4,
+          "end": 197.52,
+          "probability": 0.958867609500885
+        },
+        {
+          "word": " 36",
+          "start": 197.52,
+          "end": 197.92,
+          "probability": 0.9248711466789246
+        },
+        {
+          "word": " होते",
+          "start": 197.92,
+          "end": 198.4,
+          "probability": 0.993970051407814
+        },
+        {
+          "word": " है",
+          "start": 198.4,
+          "end": 198.48,
+          "probability": 0.9909069240093231
+        }
+      ],
+      "original_text": "सकते हो, और last हमारा chapter आता है probability, probability की यह मैं बात करूँ तो यहां पर हमारा basic formula है, probability का number of favorable outcome upon total outcome, जिसमें point की बात करो तो तीन coin पर कोशन बन सकता है, तो one coin का outcome यह है, two coin का यह है, three coin का यह है, dice की बात करें, तो एक die का सकता है, यह दो dice का सकता है, ठीक है, तो दो dice की outcome 36 होते है",
+      "masked_text": "सकते हो__MASK_63__ और __MASK_62__ हमारा __MASK_61__ आता है __MASK_60__, probability की यह मैं बात करूँ तो यहां पर हमारा basic formula है, probability का number of favorable outcome upon total outcome, जिसमें point की बात करो तो तीन coin पर कोशन बन सकता है, तो one coin का outcome यह है, two coin का यह है, three coin का यह है, dice की बात करें, तो एक die का सकता है, यह दो dice का सकता है, ठीक है, तो दो dice की outcome 36 होते है",
+      "placeholder_map": {
+        "__MASK_60__": {
+          "original": "probability",
+          "label": "TECH"
+        },
+        "__MASK_61__": {
+          "original": "chapter",
+          "label": "TECH"
+        },
+        "__MASK_62__": {
+          "original": "last",
+          "label": "TECH"
+        },
+        "__MASK_63__": {
+          "original": ",",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 4
+    },
+    {
+      "id": 10,
+      "start": 198.48,
+      "end": 214.18,
+      "text": " याद रखना है और फिर आता है आपका कार्ड कार्ड क्या होते हैं कार्ड टोटल हमारे पास होते हैं फिप्टी टू और फिप्टी टू कार्ट में कौन कौन होता है रेड हमारे पार 13 13 13 13 चार पार्ट में डिवाइड होते हैं जिसमें हमारे पार डाइमन और हर्ट रहता है �",
+      "avg_logprob": -0.11270451545715332,
+      "no_speech_prob": 7.088843290148361e-09,
+      "words": [
+        {
+          "word": " याद",
+          "start": 198.48,
+          "end": 198.68,
+          "probability": 0.7625920116901398
+        },
+        {
+          "word": " रखना",
+          "start": 198.68,
+          "end": 198.9,
+          "probability": 0.9727659523487091
+        },
+        {
+          "word": " है",
+          "start": 198.9,
+          "end": 199.34,
+          "probability": 0.7813021838665009
+        },
+        {
+          "word": " और",
+          "start": 199.34,
+          "end": 199.6,
+          "probability": 0.9439483682314554
+        },
+        {
+          "word": " फिर",
+          "start": 199.6,
+          "end": 199.76,
+          "probability": 0.9873337596654892
+        },
+        {
+          "word": " आता",
+          "start": 199.76,
+          "end": 199.96,
+          "probability": 0.9707067459821701
+        },
+        {
+          "word": " है",
+          "start": 199.96,
+          "end": 200.02,
+          "probability": 0.9941034018993378
+        },
+        {
+          "word": " आपका",
+          "start": 200.02,
+          "end": 200.24,
+          "probability": 0.9551786780357361
+        },
+        {
+          "word": " कार्ड",
+          "start": 200.24,
+          "end": 201.12,
+          "probability": 0.8200177152951559
+        },
+        {
+          "word": " कार्ड",
+          "start": 201.12,
+          "end": 201.44,
+          "probability": 0.8708054920037588
+        },
+        {
+          "word": " क्या",
+          "start": 201.44,
+          "end": 201.58,
+          "probability": 0.9826242029666901
+        },
+        {
+          "word": " होते",
+          "start": 201.58,
+          "end": 201.8,
+          "probability": 0.987681970000267
+        },
+        {
+          "word": " हैं",
+          "start": 201.8,
+          "end": 202.36,
+          "probability": 0.9394424756368002
+        },
+        {
+          "word": " कार्ड",
+          "start": 202.36,
+          "end": 202.7,
+          "probability": 0.9131328463554382
+        },
+        {
+          "word": " टोटल",
+          "start": 202.7,
+          "end": 202.98,
+          "probability": 0.8218953907489777
+        },
+        {
+          "word": " हमारे",
+          "start": 202.98,
+          "end": 203.24,
+          "probability": 0.9906227111816406
+        },
+        {
+          "word": " पास",
+          "start": 203.24,
+          "end": 203.46,
+          "probability": 0.9911752641201019
+        },
+        {
+          "word": " होते",
+          "start": 203.46,
+          "end": 203.6,
+          "probability": 0.956846296787262
+        },
+        {
+          "word": " हैं",
+          "start": 203.6,
+          "end": 203.74,
+          "probability": 0.9349058071772257
+        },
+        {
+          "word": " फिप्टी",
+          "start": 203.74,
+          "end": 204.14,
+          "probability": 0.8523176908493042
+        },
+        {
+          "word": " टू",
+          "start": 204.14,
+          "end": 204.34,
+          "probability": 0.8630720227956772
+        },
+        {
+          "word": " और",
+          "start": 204.34,
+          "end": 204.68,
+          "probability": 0.8525670766830444
+        },
+        {
+          "word": " फिप्टी",
+          "start": 204.68,
+          "end": 204.96,
+          "probability": 0.9614406228065491
+        },
+        {
+          "word": " टू",
+          "start": 204.96,
+          "end": 205.08,
+          "probability": 0.929705798625946
+        },
+        {
+          "word": " कार्ट",
+          "start": 205.08,
+          "end": 205.34,
+          "probability": 0.8654430409272512
+        },
+        {
+          "word": " में",
+          "start": 205.34,
+          "end": 205.46,
+          "probability": 0.8555658459663391
+        },
+        {
+          "word": " कौन",
+          "start": 205.46,
+          "end": 205.62,
+          "probability": 0.9678099155426025
+        },
+        {
+          "word": " कौन",
+          "start": 205.62,
+          "end": 205.8,
+          "probability": 0.8995383977890015
+        },
+        {
+          "word": " होता",
+          "start": 205.8,
+          "end": 205.98,
+          "probability": 0.9512527734041214
+        },
+        {
+          "word": " है",
+          "start": 205.98,
+          "end": 206.08,
+          "probability": 0.9979993402957916
+        },
+        {
+          "word": " रेड",
+          "start": 206.08,
+          "end": 206.98,
+          "probability": 0.8575852751731873
+        },
+        {
+          "word": " हमारे",
+          "start": 206.98,
+          "end": 208.06,
+          "probability": 0.9622036099433899
+        },
+        {
+          "word": " पार",
+          "start": 208.06,
+          "end": 208.18,
+          "probability": 0.8831638544797897
+        },
+        {
+          "word": " 13",
+          "start": 208.18,
+          "end": 208.58,
+          "probability": 0.4674997627735138
+        },
+        {
+          "word": " 13",
+          "start": 208.58,
+          "end": 208.92,
+          "probability": 0.7332354187965393
+        },
+        {
+          "word": " 13",
+          "start": 208.92,
+          "end": 209.54,
+          "probability": 0.9669722318649292
+        },
+        {
+          "word": " 13",
+          "start": 209.54,
+          "end": 209.88,
+          "probability": 0.6637623906135559
+        },
+        {
+          "word": " चार",
+          "start": 209.88,
+          "end": 210.36,
+          "probability": 0.8987640887498856
+        },
+        {
+          "word": " पार्ट",
+          "start": 210.36,
+          "end": 210.62,
+          "probability": 0.9031710709844317
+        },
+        {
+          "word": " में",
+          "start": 210.62,
+          "end": 210.7,
+          "probability": 0.9885633587837219
+        },
+        {
+          "word": " डिवाइड",
+          "start": 210.7,
+          "end": 210.98,
+          "probability": 0.9515948116779327
+        },
+        {
+          "word": " होते",
+          "start": 210.98,
+          "end": 211.18,
+          "probability": 0.9677172005176544
+        },
+        {
+          "word": " हैं",
+          "start": 211.18,
+          "end": 211.28,
+          "probability": 0.9846612811088562
+        },
+        {
+          "word": " जिसमें",
+          "start": 211.28,
+          "end": 211.88,
+          "probability": 0.9785938603537423
+        },
+        {
+          "word": " हमारे",
+          "start": 211.88,
+          "end": 212.38,
+          "probability": 0.9943315029144287
+        },
+        {
+          "word": " पार",
+          "start": 212.38,
+          "end": 212.54,
+          "probability": 0.9065998494625092
+        },
+        {
+          "word": " डाइमन",
+          "start": 212.54,
+          "end": 212.94,
+          "probability": 0.8844818047114781
+        },
+        {
+          "word": " और",
+          "start": 212.94,
+          "end": 213.06,
+          "probability": 0.8558887441953024
+        },
+        {
+          "word": " हर्ट",
+          "start": 213.06,
+          "end": 213.32,
+          "probability": 0.8414897859096527
+        },
+        {
+          "word": " रहता",
+          "start": 213.32,
+          "end": 213.58,
+          "probability": 0.9917125821113586
+        },
+        {
+          "word": " है",
+          "start": 213.58,
+          "end": 213.72,
+          "probability": 0.9960691928863525
+        },
+        {
+          "word": " �",
+          "start": 213.72,
+          "end": 214.18,
+          "probability": 0.9736546277999878
+        }
+      ],
+      "original_text": "याद रखना है और फिर आता है आपका कार्ड कार्ड क्या होते हैं कार्ड टोटल हमारे पास होते हैं फिप्टी टू और फिप्टी टू कार्ट में कौन कौन होता है रेड हमारे पार 13 13 13 13 चार पार्ट में डिवाइड होते हैं जिसमें हमारे पार डाइमन और हर्ट रहता है �",
+      "masked_text": "याद रखना है और फिर आता है आपका __MASK_64__ कार्ड क्या होते हैं कार्ड __MASK_65__ हमारे पास होते हैं फिप्टी टू और फिप्टी टू कार्ट में कौन कौन होता है रेड हमारे पार 13 13 13 13 चार पार्ट में डिवाइड होते हैं जिसमें हमारे पार डाइमन और हर्ट रहता है �",
+      "placeholder_map": {
+        "__MASK_64__": {
+          "original": "कार्ड",
+          "label": "TECH"
+        },
+        "__MASK_65__": {
+          "original": "टोटल",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 2
+    },
+    {
+      "id": 11,
+      "start": 214.18,
+      "end": 243.82,
+      "text": " रेट कलर का क्लाब और स्पीड होता है ब्लेक कलर का जिसमें नंबरिंग होती है हमारी 2345678910 सब में यही रहता है ठीक है जैक क्वीन किंग यह हमारे फेस काड होते हैं इसमें हमारे जो फेस काड होते हैं वो होते हैं जैक क्वीन किंग टोटल हमारे पास कितने फेस काड हो ग",
+      "avg_logprob": -0.1217010498046875,
+      "no_speech_prob": 1.7424385490016903e-08,
+      "words": [
+        {
+          "word": " रेट",
+          "start": 214.18,
+          "end": 214.48,
+          "probability": 0.6430053353309632
+        },
+        {
+          "word": " कलर",
+          "start": 214.48,
+          "end": 214.68,
+          "probability": 0.819351851940155
+        },
+        {
+          "word": " का",
+          "start": 214.68,
+          "end": 214.94,
+          "probability": 0.9547703862190247
+        },
+        {
+          "word": " क्लाब",
+          "start": 214.94,
+          "end": 215.38,
+          "probability": 0.7350222766399384
+        },
+        {
+          "word": " और",
+          "start": 215.38,
+          "end": 215.52,
+          "probability": 0.953253706296285
+        },
+        {
+          "word": " स्पीड",
+          "start": 215.52,
+          "end": 215.8,
+          "probability": 0.9083366990089417
+        },
+        {
+          "word": " होता",
+          "start": 215.8,
+          "end": 215.94,
+          "probability": 0.9200918823480606
+        },
+        {
+          "word": " है",
+          "start": 215.94,
+          "end": 216.0,
+          "probability": 0.9824797511100769
+        },
+        {
+          "word": " ब्लेक",
+          "start": 216.0,
+          "end": 216.3,
+          "probability": 0.8757412731647491
+        },
+        {
+          "word": " कलर",
+          "start": 216.3,
+          "end": 216.5,
+          "probability": 0.8024502595265707
+        },
+        {
+          "word": " का",
+          "start": 216.5,
+          "end": 216.72,
+          "probability": 0.9586823284626007
+        },
+        {
+          "word": " जिसमें",
+          "start": 216.72,
+          "end": 217.36,
+          "probability": 0.9796444688524518
+        },
+        {
+          "word": " नंबरिंग",
+          "start": 217.36,
+          "end": 217.72,
+          "probability": 0.8945675253868103
+        },
+        {
+          "word": " होती",
+          "start": 217.72,
+          "end": 217.96,
+          "probability": 0.969916507601738
+        },
+        {
+          "word": " है",
+          "start": 217.96,
+          "end": 218.04,
+          "probability": 0.8211555778980255
+        },
+        {
+          "word": " हमारी",
+          "start": 218.04,
+          "end": 218.32,
+          "probability": 0.969006872177124
+        },
+        {
+          "word": " 2345678910",
+          "start": 218.32,
+          "end": 220.9,
+          "probability": 0.6950585842132568
+        },
+        {
+          "word": " सब",
+          "start": 220.9,
+          "end": 221.96,
+          "probability": 0.9161006410916647
+        },
+        {
+          "word": " में",
+          "start": 221.96,
+          "end": 222.1,
+          "probability": 0.9206047852834066
+        },
+        {
+          "word": " यही",
+          "start": 222.1,
+          "end": 222.26,
+          "probability": 0.8408903777599335
+        },
+        {
+          "word": " रहता",
+          "start": 222.26,
+          "end": 222.5,
+          "probability": 0.983616292476654
+        },
+        {
+          "word": " है",
+          "start": 222.5,
+          "end": 222.7,
+          "probability": 0.9951279163360596
+        },
+        {
+          "word": " ठीक",
+          "start": 222.7,
+          "end": 222.98,
+          "probability": 0.9817130118608475
+        },
+        {
+          "word": " है",
+          "start": 222.98,
+          "end": 223.08,
+          "probability": 0.8862459659576416
+        },
+        {
+          "word": " जैक",
+          "start": 223.08,
+          "end": 223.92,
+          "probability": 0.8956538438796997
+        },
+        {
+          "word": " क्वीन",
+          "start": 223.92,
+          "end": 224.3,
+          "probability": 0.7659755746523539
+        },
+        {
+          "word": " किंग",
+          "start": 224.3,
+          "end": 224.66,
+          "probability": 0.9312366485595703
+        },
+        {
+          "word": " यह",
+          "start": 224.66,
+          "end": 225.08,
+          "probability": 0.9523950616518656
+        },
+        {
+          "word": " हमारे",
+          "start": 225.08,
+          "end": 225.36,
+          "probability": 0.9552569389343262
+        },
+        {
+          "word": " फेस",
+          "start": 225.36,
+          "end": 225.62,
+          "probability": 0.9135536849498749
+        },
+        {
+          "word": " काड",
+          "start": 225.62,
+          "end": 225.82,
+          "probability": 0.8319210857152939
+        },
+        {
+          "word": " होते",
+          "start": 225.82,
+          "end": 226.0,
+          "probability": 0.9247888624668121
+        },
+        {
+          "word": " हैं",
+          "start": 226.0,
+          "end": 226.84,
+          "probability": 0.8617084821065267
+        },
+        {
+          "word": " इसमें",
+          "start": 226.84,
+          "end": 227.14,
+          "probability": 0.9793166518211365
+        },
+        {
+          "word": " हमारे",
+          "start": 227.14,
+          "end": 227.34,
+          "probability": 0.9180971145629883
+        },
+        {
+          "word": " जो",
+          "start": 227.34,
+          "end": 227.5,
+          "probability": 0.9483954509099325
+        },
+        {
+          "word": " फेस",
+          "start": 227.5,
+          "end": 227.76,
+          "probability": 0.9842401891946793
+        },
+        {
+          "word": " काड",
+          "start": 227.76,
+          "end": 228.02,
+          "probability": 0.9750015586614609
+        },
+        {
+          "word": " होते",
+          "start": 228.02,
+          "end": 228.24,
+          "probability": 0.9902981817722321
+        },
+        {
+          "word": " हैं",
+          "start": 228.24,
+          "end": 228.92,
+          "probability": 0.9702125191688538
+        },
+        {
+          "word": " वो",
+          "start": 228.92,
+          "end": 229.18,
+          "probability": 0.8914829691251119
+        },
+        {
+          "word": " होते",
+          "start": 229.18,
+          "end": 229.5,
+          "probability": 0.9206333458423615
+        },
+        {
+          "word": " हैं",
+          "start": 229.5,
+          "end": 229.72,
+          "probability": 0.986640989780426
+        },
+        {
+          "word": " जैक",
+          "start": 229.72,
+          "end": 230.9,
+          "probability": 0.9593772441148758
+        },
+        {
+          "word": " क्वीन",
+          "start": 230.9,
+          "end": 231.26,
+          "probability": 0.9559599061806997
+        },
+        {
+          "word": " किंग",
+          "start": 231.26,
+          "end": 231.68,
+          "probability": 0.9537872195243835
+        },
+        {
+          "word": " टोटल",
+          "start": 231.68,
+          "end": 232.54,
+          "probability": 0.8853096067905426
+        },
+        {
+          "word": " हमारे",
+          "start": 232.54,
+          "end": 232.78,
+          "probability": 0.9612227797508239
+        },
+        {
+          "word": " पास",
+          "start": 232.78,
+          "end": 232.92,
+          "probability": 0.9937744587659836
+        },
+        {
+          "word": " कितने",
+          "start": 232.92,
+          "end": 233.14,
+          "probability": 0.9669412732124328
+        },
+        {
+          "word": " फेस",
+          "start": 233.14,
+          "end": 233.4,
+          "probability": 0.9454883337020874
+        },
+        {
+          "word": " काड",
+          "start": 233.4,
+          "end": 233.6,
+          "probability": 0.9693694710731506
+        },
+        {
+          "word": " हो",
+          "start": 233.6,
+          "end": 233.66,
+          "probability": 0.9905513226985931
+        },
+        {
+          "word": " ग",
+          "start": 233.66,
+          "end": 243.82,
+          "probability": 0.9685412347316742
+        }
+      ],
+      "original_text": "रेट कलर का क्लाब और स्पीड होता है ब्लेक कलर का जिसमें नंबरिंग होती है हमारी 2345678910 सब में यही रहता है ठीक है जैक क्वीन किंग यह हमारे फेस काड होते हैं इसमें हमारे जो फेस काड होते हैं वो होते हैं जैक क्वीन किंग टोटल हमारे पास कितने फेस काड हो ग",
+      "masked_text": "__MASK_69__ __MASK_70__ का __MASK_66__ और स्पीड होता है __MASK_67__ __MASK_71__ का जिसमें नंबरिंग __MASK_68__ है हमारी 2345678910 सब में यही रहता है ठीक है जैक क्वीन किंग यह हमारे फेस काड होते हैं इसमें हमारे जो फेस काड होते हैं वो होते हैं जैक क्वीन किंग टोटल हमारे पास कितने फेस काड हो ग",
+      "placeholder_map": {
+        "__MASK_66__": {
+          "original": "क्लाब",
+          "label": "TECH"
+        },
+        "__MASK_67__": {
+          "original": "ब्लेक",
+          "label": "TECH"
+        },
+        "__MASK_68__": {
+          "original": "होती",
+          "label": "TECH"
+        },
+        "__MASK_69__": {
+          "original": "रेट",
+          "label": "TECH"
+        },
+        "__MASK_70__": {
+          "original": "कलर",
+          "label": "TECH"
+        },
+        "__MASK_71__": {
+          "original": "कलर",
+          "label": "TECH"
+        }
+      },
+      "entity_count": 6
+    },
+    {
+      "id": 12,
+      "start": 243.82,
+      "end": 246.46,
+      "text": " करते हैं लाश्ट में की बात बोरूँगा कि आप सभी सफलों तरने बाद",
+      "avg_logprob": -0.2512484360486269,
+      "no_speech_prob": 2.2936117449745552e-09,
+      "words": [
+        {
+          "word": " करते",
+          "start": 243.82,
+          "end": 244.14,
+          "probability": 0.837795615196228
+        },
+        {
+          "word": " हैं",
+          "start": 244.14,
+          "end": 244.2,
+          "probability": 0.9479091962178549
+        },
+        {
+          "word": " लाश्ट",
+          "start": 244.2,
+          "end": 244.4,
+          "probability": 0.8562037497758865
+        },
+        {
+          "word": " में",
+          "start": 244.4,
+          "end": 244.58,
+          "probability": 0.7508226235707601
+        },
+        {
+          "word": " की",
+          "start": 244.58,
+          "end": 244.6,
+          "probability": 0.9136300683021545
+        },
+        {
+          "word": " बात",
+          "start": 244.6,
+          "end": 244.74,
+          "probability": 0.9688689410686493
+        },
+        {
+          "word": " बोरूँगा",
+          "start": 244.74,
+          "end": 244.96,
+          "probability": 0.7110711254856803
+        },
+        {
+          "word": " कि",
+          "start": 244.96,
+          "end": 245.08,
+          "probability": 0.9171516597270966
+        },
+        {
+          "word": " आप",
+          "start": 245.08,
+          "end": 245.18,
+          "probability": 0.987484022974968
+        },
+        {
+          "word": " सभी",
+          "start": 245.18,
+          "end": 245.38,
+          "probability": 0.9570254534482956
+        },
+        {
+          "word": " सफलों",
+          "start": 245.38,
+          "end": 245.82,
+          "probability": 0.8135693271954855
+        },
+        {
+          "word": " तरने",
+          "start": 245.82,
+          "end": 246.32,
+          "probability": 0.6509705722332001
+        },
+        {
+          "word": " बाद",
+          "start": 246.32,
+          "end": 246.46,
+          "probability": 0.8796902894973755
+        }
+      ],
+      "original_text": "करते हैं लाश्ट में की बात बोरूँगा कि आप सभी सफलों तरने बाद",
+      "masked_text": "करते हैं लाश्ट में की बात बोरूँगा कि आप सभी सफलों तरने बाद",
+      "placeholder_map": {},
+      "entity_count": 0
+    }
+  ],
+  "total_entities": 72,
+  "entity_breakdown": {
+    "TECH": 72
+  },
+  "ner_skipped": false
+}

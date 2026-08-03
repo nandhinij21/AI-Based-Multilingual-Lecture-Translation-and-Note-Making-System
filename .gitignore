@@ -29,13 +29,19 @@ Thumbs.db
 .ipynb_checkpoints
 *.ipynb_checkpoints
 
-# Keep only selected audio/output files
+# Keep only selected audio files
 Scripts/audio/*
 !Scripts/audio/yRpLlJmRo2w.wav
 !Scripts/audio/7l7epaAxRmA.wav
 
+# Keep only selected output files for the two kept audio files
 Scripts/output/*
+!Scripts/output/7l7epaAxRmA_large-v3-turbo.json
+!Scripts/output/7l7epaAxRmA_large-v3-turbo_ner.json
+!Scripts/output/7l7epaAxRmA_large-v3-turbo_translated.json
 !Scripts/output/yRpLlJmRo2w_large-v3-turbo.json
+!Scripts/output/yRpLlJmRo2w_large-v3-turbo_ner.json
+!Scripts/output/yRpLlJmRo2w_large-v3-turbo_translated.json
 !Scripts/output/yRpLlJmRo2w_stage6_notes.json
 
 # Logs
