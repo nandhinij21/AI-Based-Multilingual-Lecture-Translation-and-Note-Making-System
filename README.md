@@ -350,6 +350,12 @@ python stage6_notes.py
 
 ---
 
+## 👥 Contributors
+
+- [nandhinij21](https://github.com/nandhinij21)
+- [Radhika0708](https://github.com/Radhika0708)
+- [darshan-029](https://github.com/darshan-029)
+
 # 📜 License
 
 This project is licensed under the **MIT License**.
