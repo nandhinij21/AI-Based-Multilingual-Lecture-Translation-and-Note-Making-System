@@ -293,13 +293,13 @@ python stage6_notes.py
 
 # 📊 Results
 
-| Metric | Result |
-|---------|--------|
-| TECH Entity F1 | **0.98** |
-| FORMULA Entity F1 | **0.87** |
-| Technical Term Preservation | **100%** |
-| SacreBLEU Improvement | **+5.15** |
-| Supported Languages | English, Hindi, Tamil, Telugu, Marathi, Bengali |
+| Metric                      | Result                                          |
+| --------------------------- | ----------------------------------------------- |
+| TECH Entity F1              | **0.98**                                        |
+| FORMULA Entity F1           | **0.87**                                        |
+| Technical Term Preservation | **100%**                                        |
+| SacreBLEU Improvement       | **+5.15**                                       |
+| Supported Languages         | English, Hindi, Tamil, Telugu, Marathi, Bengali |
 
 ---
 
@@ -361,3 +361,34 @@ python stage6_notes.py
 This project is licensed under the **MIT License**.
 
 See the `LICENSE` file for more information.
+
+---
+
+## 🔐 Environment & Secrets (important)
+
+This repository must not contain API keys, tokens, or other secrets. Keep credentials out of source
+and load them from environment variables or a secure secrets manager.
+
+- Create a `.env` file inside the `Scripts/` directory for local development.
+- Do NOT commit `.env` to the repository. `.gitignore` already excludes environment files.
+
+Example `.env` keys used by this project:
+
+```env
+# Scripts/.env
+GROQ_API_KEY=your_groq_api_key_here
+HF_API_KEY=your_huggingface_token_here
+```
+
+I've added `Scripts/.env.example` to the repo with placeholders — copy it to `Scripts/.env` and fill
+in real values locally.
+
+Security notes:
+
+- Revoke and rotate any API keys that were previously committed (Groq, Hugging Face, etc.).
+- Consider using a secrets manager (GitHub Actions secrets, Azure Key Vault, AWS Secrets Manager,
+  or similar) for CI and production.
+- Never paste long-lived tokens into notebooks or committed files; prefer environment variables.
+
+If you want, I can add a small helper script to load `.env` safely and fail with a clear message
+when required keys are missing.
